@@ -1,0 +1,1434 @@
+﻿Log file open, 08/13/19 17:02:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PinballMachine
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.223249
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1709) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.13-15.02.44:588][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.13-15.02.44:589][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.13-15.02.44:590][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.13-15.02.44:590][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.13-15.02.44:590][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.13-15.02.44:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:590][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-15.02.44:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-15.02.44:597][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-15.02.44:598][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-15.02.44:599][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-15.02.44:601][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-15.02.44:601][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:601][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-15.02.44:601][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-15.02.44:601][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-15.02.44:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.13-15.02.44:702][  0]LogHAL: Display: Platform has ~ 8 GB [8485310464 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.13-15.02.44:702][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.13-15.02.44:702][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.13-15.02.44:702][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:702][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-15.02.44:702][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-15.02.44:702][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:702][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-15.02.44:702][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:702][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-15.02.44:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-15.02.44:704][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-15.02.44:705][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-15.02.44:706][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.13-15.02.44:739][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.13-15.02.44:739][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.13-15.02.44:739][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.13-15.02.44:740][  0]LogInit: Computer: DESKTOP-1CQM2D8
+[2019.08.13-15.02.44:740][  0]LogInit: User: Mostafa
+[2019.08.13-15.02.44:740][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.13-15.02.44:740][  0]LogInit: High frequency timer resolution =2.835933 MHz
+[2019.08.13-15.02.44:741][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.08.13-15.02.44:741][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.13-15.02.44:741][  0]LogMemory: Process Physical Memory: 96.30 MB used, 96.30 MB peak
+[2019.08.13-15.02.44:741][  0]LogMemory: Process Virtual Memory: 83.48 MB used, 83.48 MB peak
+[2019.08.13-15.02.44:741][  0]LogMemory: Physical Memory: 4212.37 MB used,  3879.86 MB free, 8092.22 MB total
+[2019.08.13-15.02.44:741][  0]LogMemory: Virtual Memory: 536.65 MB used,  134217192.00 MB free, 134217728.00 MB total
+[2019.08.13-15.02.45:941][  0]LogInit: Using OS detected language (en-US).
+[2019.08.13-15.02.45:941][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.13-15.02.45:941][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.13-15.02.46:352][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.13-15.02.46:427][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.13-15.02.46:427][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.13-15.02.50:060][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-15.02.50:060][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.13-15.02.50:985][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2019.08.13-15.02.50:985][  0]LogD3D11RHI:       2020/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.13-15.02.51:003][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.08.13-15.02.51:003][  0]LogD3D11RHI:       128/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.13-15.02.51:005][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.13-15.02.51:005][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.13-15.02.51:005][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.13-15.02.51:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.13-15.02.51:012][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2019.08.13-15.02.51:012][  0]LogWindows: EnumDisplayDevices:
+[2019.08.13-15.02.51:013][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.08.13-15.02.51:013][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.08.13-15.02.51:013][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.08.13-15.02.51:013][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.13-15.02.51:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2019.08.13-15.02.51:013][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.13-15.02.51:013][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.13-15.02.51:013][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2019.08.13-15.02.51:035][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.13-15.02.51:039][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-15.02.51:040][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-15.02.51:040][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-15.02.51:048][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.13-15.02.51:397][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.13-15.02.51:410][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.13-15.02.51:422][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.13-15.02.51:435][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.13-15.02.51:457][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.13-15.02.51:470][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.13-15.02.51:482][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.13-15.02.51:494][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.13-15.02.51:501][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.13-15.02.51:591][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.13-15.02.51:592][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.13-15.02.51:731][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.13-15.02.51:731][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.13-15.02.51:767][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.13-15.02.51:767][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.13-15.02.51:784][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.13-15.02.51:795][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.13-15.02.51:806][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.13-15.02.51:894][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.13-15.02.51:991][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.13-15.02.51:991][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.13-15.02.51:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.13-15.02.52:072][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.13-15.02.52:291][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (E:/Repo/Pinball/PinballMachine/Intermediate/Shaders/WorkingDirectory/11888/).
+[2019.08.13-15.02.52:291][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mostafa/AppData/Local/Temp/UnrealShaderWorkingDir/E75EFFF44D08137D03702F9C4C75F9CF/'.
+[2019.08.13-15.02.52:293][  0]LogXGEController: Cleaning working directory: C:/Users/Mostafa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.13-15.02.52:293][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.13-15.02.52:293][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.13-15.02.52:293][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.13-15.02.58:548][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Repo/Pinball/PinballMachine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Repo/Pinball/PinballMachine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-15.02.58:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.13-15.02.58:819][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.13-15.02.58:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-15.02.58:819][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.13-15.02.58:833][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mostafa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.13-15.02.58:833][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.13-15.02.58:833][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.13-15.02.58:882][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.13-15.02.58:885][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.13-15.02.58:920][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.13-15.02.59:647][  0]LogAssetRegistry: FAssetRegistry took 0.0388 seconds to start up
+[2019.08.13-15.03.00:112][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-15.03.00:888][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.13-15.03.00:888][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.13-15.03.00:888][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.13-15.03.00:888][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.13-15.03.00:888][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.13-15.03.01:087][  0]LogNetVersion: PinballMachine 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3356365459)
+[2019.08.13-15.03.04:474][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.069331 seconds
+[2019.08.13-15.03.04:487][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.13-15.03.04:487][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.13-15.03.04:487][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.13-15.03.18:408][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.13-15.03.18:422][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.13-15.03.18:707][  0]SourceControl: Source control is disabled
+[2019.08.13-15.03.18:707][  0]SourceControl: Source control is disabled
+[2019.08.13-15.03.18:710][  0]SourceControl: Source control is disabled
+[2019.08.13-15.03.18:711][  0]SourceControl: Source control is disabled
+[2019.08.13-15.03.19:048][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.13-15.03.19:142][  0]LogOcInput: OculusInput pre-init called
+[2019.08.13-15.03.32:122][  0]LogEngine: Initializing Engine...
+[2019.08.13-15.03.32:122][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-15.03.32:123][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.13-15.03.33:430][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.13-15.03.33:442][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.13-15.03.33:447][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.13-15.03.33:462][  0]LogInit: FAudioDevice initialized.
+[2019.08.13-15.03.33:462][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.13-15.03.33:773][  0]LogDerivedDataCache: Saved boot cache 0.31s 71MB C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-15.03.33:806][  0]LogInit: Texture streaming: Enabled
+[2019.08.13-15.03.33:844][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.13-15.03.33:868][  0]LogInit: Transaction tracking system initialized
+[2019.08.13-15.03.33:891][  0]BlueprintLog: New page: Editor Load
+[2019.08.13-15.03.34:086][  0]LocalizationService: Localization service is disabled
+[2019.08.13-15.03.35:363][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/' took 0.02s
+[2019.08.13-15.03.35:363][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.13-15.03.35:363][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.13-15.03.36:489][  0]SourceControl: Source control is disabled
+[2019.08.13-15.03.36:489][  0]Cmd: MAP LOAD FILE="E:/Repo/Pinball/PinballMachine/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.13-15.03.36:489][  0]LogEditorServer: Warning: Can't find file 'E:/Repo/Pinball/PinballMachine/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.13-15.03.36:489][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.13-15.03.36:489][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.08.13-15.03.36:489][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.000
+[2019.08.13-15.03.36:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.03.36:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.03.36:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.03.36:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.03.36:738][  0]LogCollectionManager: Loaded 0 collections in 0.005256 seconds
+[2019.08.13-15.03.36:764][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Saved/Collections/' took 0.01s
+[2019.08.13-15.03.36:764][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/Developers/Mostafa/Collections/' took 0.00s
+[2019.08.13-15.03.36:764][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/Collections/' took 0.00s
+[2019.08.13-15.03.36:765][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.13-15.03.36:785][  0]LogContentBrowser: Native class hierarchy populated in 0.0200 seconds. Added 2732 classes and 659 folders.
+[2019.08.13-15.03.36:793][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.13-15.03.36:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.36:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.36:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.36:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.36:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.36:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.37:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-15.03.38:233][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.08.13-15.03.38:250][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.08.13-15.03.38:286][  0]LogSlate: Took 0.011579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.13-15.03.38:294][  0]LogSlate: Took 0.006010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.13-15.03.38:309][  0]LogSlate: Took 0.007090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.13-15.03.38:626][  0]LogRenderer: Reallocating scene render targets to support 776x344 Format 10 NumSamples 1 (Frame:1).
+[2019.08.13-15.03.38:824][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.08.13-15.03.38:825][  0]LogLoad: (Engine Initialization) Total time: 66.18 seconds
+[2019.08.13-15.03.38:825][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.13-15.03.39:156][  0]LogAssetRegistry: Asset discovery search completed in 39.5319 seconds
+[2019.08.13-15.03.39:158][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.13-15.03.39:158][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.08.13-15.03.39:159][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.13-15.03.39:283][  0]LogSlate: Took 0.038315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.13-15.03.39:858][ 13]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.13-15.04.10:425][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.04.11:017][898]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/BP_VariableBand.BP_VariableBand
+[2019.08.13-15.04.11:659][898]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.08.13-15.04.12:738][898]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_DropTarget.SM_DropTarget
+[2019.08.13-15.04.12:742][898]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.08.13-15.04.13:703][898]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/BP_DropTarget.BP_DropTarget
+[2019.08.13-15.04.14:009][898]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet
+[2019.08.13-15.04.14:668][898]LogSlate: Took 0.004002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.13-15.04.23:027][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.04.27:047][368]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.13-15.04.27:101][368]LogAssetEditorManager: Opening Asset editor for World /Game/GameDesign/BasicSetting.BasicSetting
+[2019.08.13-15.04.27:158][368]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.08.13-15.04.27:159][368]Cmd: MAP LOAD FILE="E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.13-15.04.27:159][368]LightingResults: New page: Lighting Build
+[2019.08.13-15.04.27:161][368]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2019.08.13-15.04.27:161][368]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.08.13-15.04.27:162][368]LoadErrors: New page: Loading map: BasicSetting.umap
+[2019.08.13-15.04.27:163][368]MapCheck: New page: Map Check
+[2019.08.13-15.04.27:163][368]LightingResults: New page: Lighting Build
+[2019.08.13-15.04.27:196][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.13-15.04.27:215][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.13-15.04.27:250][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.08.13-15.04.27:270][368]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.13-15.04.27:270][368]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.08.13-15.04.27:271][368]LogFileHelpers: Loading map 'BasicSetting' took 0.112
+[2019.08.13-15.04.30:945][556]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.13-15.04.30:970][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.04.30:970][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-15.04.30:971][556]PIE: New page: PIE session: BasicSetting (Aug 13, 2019, 7:04:30 PM)
+[2019.08.13-15.04.30:983][556]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.13-15.04.31:149][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166371s)
+[2019.08.13-15.04.31:151][556]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.13-15.04.31:152][556]LogPlayLevel: PIE: World Init took: (0.002036s)
+[2019.08.13-15.04.31:152][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.168999s)
+[2019.08.13-15.04.31:247][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.08.13-15.04.31:248][556]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.13-15.04.31:256][556]LogInit: FAudioDevice initialized.
+[2019.08.13-15.04.31:297][556]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.13-15.04.31:307][556]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.13-17.04.31
+[2019.08.13-15.04.31:308][556]LogWorld: Bringing up level for play took: 0.007345
+[2019.08.13-15.04.31:331][556]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.13-15.04.31:339][556]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.13-15.04.31:340][556]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.08.13-15.04.31:343][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.04.31:345][556]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.255
+[2019.08.13-15.04.31:345][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.04.38:874][993]LogHttp: Warning: 000002088B6B16C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.04.38:874][993]LogHttp: Warning: 000002088B6B16C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.04.38:874][993]LogHttp: Warning: 000002088B6B16C0: libcurl info message cache 1 (Closing connection 0)
+[2019.08.13-15.04.38:891][994]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.05.08:151][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.05.12:977][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.05.17:533][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.05.19:850][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.05.19:850][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.05.19:886][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-15.05.19:887][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.05.19:957][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.05.19:992][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.08.13-15.05.20:004][413]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.13-15.06.08:370][959]LogSlate: Took 0.003759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.13-15.06.38:855][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:861][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:861][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:861][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:862][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:873][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14643.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:873][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:874][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14642.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:874][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:876][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14641.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:876][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:877][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14640.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:877][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:877][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14639.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:877][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:898][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:898][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:898][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:898][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:898][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:904][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:904][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:904][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:904][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:905][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:912][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14653.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:912][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14652.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:912][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14651.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:912][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14650.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.38:912][  7]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14649.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.39:234][ 10]LogHttp: Warning: 0000020875B7B740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.06.39:234][ 10]LogHttp: Warning: 0000020875B7B740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.06.39:234][ 10]LogHttp: Warning: 0000020875B7B740: libcurl info message cache 1 (Closing connection 1)
+[2019.08.13-15.06.39:234][ 10]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.06.43:458][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:458][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:458][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:458][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:458][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:460][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:460][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:460][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:460][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:461][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:464][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14663.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:464][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14662.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:464][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14661.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:464][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14660.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:464][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14659.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:556][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:556][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:556][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:556][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_36.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:556][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:569][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:569][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:569][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:569][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_36.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:569][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:588][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14673.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:588][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14672.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:588][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14671.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:588][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14670.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.06.43:588][188]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14669.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:506][811]BlueprintLog: New page: Compile BP_DropTarget
+[2019.08.13-15.07.18:712][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.13-15.07.18:717][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:717][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_48.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:717][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:717][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:717][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:720][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:720][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_48.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:720][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:720][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:720][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:724][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14683.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:724][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14682.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:724][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14681.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:724][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14680.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:724][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14679.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:744][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:744][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_68.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:744][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:744][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:745][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:748][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:748][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_68.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:748][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:748][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:748][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:752][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14703.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:752][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14702.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:752][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14701.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:752][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14700.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.18:752][811]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14699.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.07.19:312][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_DropTarget" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_DropTarget.uasset" SILENT=true
+[2019.08.13-15.07.19:353][825]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_DropTarget7FFD8E66439A695F56479EAF0AA48788.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_DropTarget.uasset'
+[2019.08.13-15.07.42:061][345]LogUObjectArray: Warning: Empty slot
+[2019.08.13-15.07.42:128][345]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.13-15.07.44:984][345]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.856 s
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: 
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: Stack: 
+[2019.08.13-15.07.44:984][345]LogOutputDevice: Error: [Callstack] 0x00007ffa54c0c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa54486fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa54494e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa523a37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa50575cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa50531e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa63fd5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa641c15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa6401d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa63ffaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffa63ff0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffaa2fdb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffaa2fcef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffaa2fdd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffaa2fcc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffab960b85d USER32.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffab960b1ef USER32.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ffaa2fde946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ff73fe75d3e UE4Editor.exe!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ff73fe8554c UE4Editor.exe!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ff73fe855ca UE4Editor.exe!UnknownFunction []
+[2019.08.13-15.07.44:985][345]LogOutputDevice: Error: [Callstack] 0x00007ff73fe9316c UE4Editor.exe!UnknownFunction []
+[2019.08.13-15.07.44:986][345]LogOutputDevice: Error: [Callstack] 0x00007ff73fe95b8e UE4Editor.exe!UnknownFunction []
+[2019.08.13-15.07.44:986][345]LogOutputDevice: Error: [Callstack] 0x00007ffabb2237e4 KERNEL32.DLL!UnknownFunction []
+[2019.08.13-15.07.44:986][345]LogOutputDevice: Error: [Callstack] 0x00007ffabb92cb81 ntdll.dll!UnknownFunction []
+[2019.08.13-15.07.44:986][345]LogOutputDevice: Error: 
+[2019.08.13-15.07.45:055][345]LogStats:                SubmitErrorReport -  0.000 s
+[2019.08.13-15.07.51:704][345]LogStats:                    SendNewReport -  6.649 s
+[2019.08.13-15.07.51:704][345]LogStats:             FDebug::EnsureFailed -  9.576 s
+[2019.08.13-15.07.51:704][345]LogUObjectArray: Warning: Empty slot
+[2019.08.13-15.08.39:878][185]LogHttp: Warning: 0000020875A491C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.08.39:878][185]LogHttp: Warning: 0000020875A491C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.08.39:879][185]LogHttp: Warning: 0000020875A491C0: libcurl info message cache 1 (Closing connection 2)
+[2019.08.13-15.08.40:215][186]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.08.56:770][601]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.08.56:770][601]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.08.57:507][637]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:507][637]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:548][639]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:548][639]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:550][639]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:553][639]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:569][640]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:570][640]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.08.57:573][640]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:394][ 77]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.09.06:395][ 77]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.09.06:397][ 77]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.09.06:400][ 77]LogUObjectArray: Warning: Other object in slot
+[2019.08.13-15.09.06:591][ 87]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:591][ 87]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:592][ 87]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:594][ 87]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:597][ 87]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:611][ 88]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:612][ 88]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:615][ 88]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:630][ 89]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:631][ 89]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:635][ 89]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:649][ 90]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:650][ 90]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:654][ 90]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:669][ 91]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:671][ 91]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.06:674][ 91]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.10:958][307]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.09.10:958][307]LogUObjectBase: Warning: Object is not registered
+[2019.08.13-15.10.40:266][263]LogHttp: Warning: 00000208805520C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.10.40:267][263]LogHttp: Warning: 00000208805520C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.10.40:267][263]LogHttp: Warning: 00000208805520C0: libcurl info message cache 1 (Closing connection 3)
+[2019.08.13-15.10.40:287][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.12.30:247][318]LogSlate: Took 0.062196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.13-15.12.40:915][551]LogHttp: Warning: 000002088056DA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.12.40:915][551]LogHttp: Warning: 000002088056DA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.12.40:915][551]LogHttp: Warning: 000002088056DA80: libcurl info message cache 1 (Closing connection 4)
+[2019.08.13-15.12.41:250][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.14.41:584][182]LogHttp: Warning: 0000020885E88A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.14.41:584][182]LogHttp: Warning: 0000020885E88A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.14.41:584][182]LogHttp: Warning: 0000020885E88A40: libcurl info message cache 1 (Closing connection 5)
+[2019.08.13-15.14.41:584][182]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.16.18:572][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.08.13-15.16.18:573][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.13-15.16.18:882][774]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto1E53A5B404830DAAEFDEE7484EF66E91E.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto1.umap'
+[2019.08.13-15.16.18:887][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.372
+[2019.08.13-15.16.18:887][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2019.08.13-15.16.18:889][774]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueBrint/BP_VariableBand_TargetDropSet] ([1] browsable assets)...
+[2019.08.13-15.16.18:990][774]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet]
+[2019.08.13-15.16.18:990][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/BP_VariableBand_TargetDropSet]
+[2019.08.13-15.16.19:070][774]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSet_Au24B1E86F4C4C37505F066DA11A059BE3.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_VariableBand_TargetDropSet_Auto1.uasset'
+[2019.08.13-15.16.19:070][774]LogFileHelpers: Auto-saving content packages took 0.182
+[2019.08.13-15.16.37:204][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/PinballGameMode.PinballGameMode
+[2019.08.13-15.16.41:627][522]LogHttp: Warning: 00000208AA79D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.16.41:628][522]LogHttp: Warning: 00000208AA79D800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.16.41:628][522]LogHttp: Warning: 00000208AA79D800: libcurl info message cache 1 (Closing connection 6)
+[2019.08.13-15.16.41:628][522]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.18.41:676][892]LogHttp: Warning: 00000208AA79DA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.18.41:676][892]LogHttp: Warning: 00000208AA79DA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.18.41:676][892]LogHttp: Warning: 00000208AA79DA80: libcurl info message cache 1 (Closing connection 7)
+[2019.08.13-15.18.41:676][892]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.20.29:147][895]LogRenderer: Reallocating scene render targets to support 776x608 Format 10 NumSamples 1 (Frame:1).
+[2019.08.13-15.20.41:773][271]LogHttp: Warning: 00000208AEB00680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.20.41:774][271]LogHttp: Warning: 00000208AEB00680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.20.41:774][271]LogHttp: Warning: 00000208AEB00680: libcurl info message cache 1 (Closing connection 8)
+[2019.08.13-15.20.41:808][272]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.22.41:852][577]LogHttp: Warning: 000002081BF6A0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.22.41:852][577]LogHttp: Warning: 000002081BF6A0C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.22.41:852][577]LogHttp: Warning: 000002081BF6A0C0: libcurl info message cache 1 (Closing connection 9)
+[2019.08.13-15.22.41:887][578]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.23.34:106][787]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.23.34:193][787]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] Cast To PinballGameMode  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.08.13-15.23.34:209][787]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] This blueprint (self) is not a PinballGameMode_C, therefore ' Target ' must have a connection.
+[2019.08.13-15.23.34:223][787]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Could not find an event-dispatcher named "OnGameReset" in 'PinballGameMode_C'.
+Make sure 'PinballGameMode_C' has been compiled for  Bind Event to OnGameReset
+[2019.08.13-15.23.34:223][787]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Event Dispatcher pin is not connected  Bind Event to OnGameReset
+[2019.08.13-15.23.34:235][787]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Variable node  Get Multiplyer  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.08.13-15.23.34:236][787]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Failed to create property K2Node_AddDelegate_Delegate from  <None>  due to a bad or unknown type (Delegate (by ref))
+[2019.08.13-15.23.34:625][787]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.08.13-15.23.34:634][787]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] [1261.99] Compile of BP_VariableBand_TargetDropSet failed. 5 Fatal Issue(s) 1 Warning(s) [in 528 ms] (/Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet)
+[2019.08.13-15.23.35:367][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_VariableBand_TargetDropSet" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset" SILENT=true
+[2019.08.13-15.23.35:528][801]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSetA7A92C344F3107ACD8B009BCFE0F3357.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset'
+[2019.08.13-15.24.09:013][485]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.24.09:018][485]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] Cast To PinballGameMode  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.08.13-15.24.09:022][485]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] This blueprint (self) is not a PinballGameMode_C, therefore ' Target ' must have a connection.
+[2019.08.13-15.24.09:023][485]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Could not find an event-dispatcher named "OnGameReset" in 'PinballGameMode_C'.
+Make sure 'PinballGameMode_C' has been compiled for  Bind Event to OnGameReset
+[2019.08.13-15.24.09:023][485]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Event Dispatcher pin is not connected  Bind Event to OnGameReset
+[2019.08.13-15.24.09:023][485]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Variable node  Get Multiplyer  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.08.13-15.24.09:023][485]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Failed to create property K2Node_AddDelegate_Delegate from  <None>  due to a bad or unknown type (Delegate (by ref))
+[2019.08.13-15.24.09:248][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.08.13-15.24.09:256][485]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] [1296.61] Compile of BP_VariableBand_TargetDropSet failed. 5 Fatal Issue(s) 1 Warning(s) [in 242 ms] (/Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet)
+[2019.08.13-15.24.12:132][567]LogEditorTransaction: Undo Move Node
+[2019.08.13-15.24.13:115][593]LogEditorTransaction: Undo Create Pin Link
+[2019.08.13-15.24.42:339][162]LogHttp: Warning: 000002081BB1C680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.24.42:340][162]LogHttp: Warning: 000002081BB1C680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.24.42:340][162]LogHttp: Warning: 000002081BB1C680: libcurl info message cache 1 (Closing connection 10)
+[2019.08.13-15.24.42:340][162]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.26.19:473][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.13-15.26.19:474][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.13-15.26.19:747][507]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto2C041039841538BAA15ED8CBED23799D1.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto2.umap'
+[2019.08.13-15.26.19:756][507]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.327
+[2019.08.13-15.26.19:756][507]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.327
+[2019.08.13-15.26.19:760][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueBrint/BP_VariableBand_TargetDropSet] ([1] browsable assets)...
+[2019.08.13-15.26.19:866][507]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet]
+[2019.08.13-15.26.19:866][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/BP_VariableBand_TargetDropSet]
+[2019.08.13-15.26.20:000][507]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSet_Au60FC981E46DD646CD8E0B587ABF1E8FD.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_VariableBand_TargetDropSet_Auto2.uasset'
+[2019.08.13-15.26.20:006][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueBrint/PinballGameMode] ([1] browsable assets)...
+[2019.08.13-15.26.20:006][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/PinballGameMode]
+[2019.08.13-15.26.20:006][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballGameMode" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/PinballGameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.13-15.26.20:164][507]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballGameMode_Auto2EC6768E3454C02FF1F035A9644614F97.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/PinballGameMode_Auto2.uasset'
+[2019.08.13-15.26.20:164][507]LogFileHelpers: Auto-saving content packages took 0.405
+[2019.08.13-15.26.42:374][869]LogHttp: Warning: 00000208AEB02480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.26.42:374][869]LogHttp: Warning: 00000208AEB02480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.26.42:374][869]LogHttp: Warning: 00000208AEB02480: libcurl info message cache 1 (Closing connection 11)
+[2019.08.13-15.26.42:407][870]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.26.51:700][148]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.26.51:710][148]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Could not find an event-dispatcher named "OnGameReset" in 'PinballGameMode_C'.
+Make sure 'PinballGameMode_C' has been compiled for  Bind Event to OnGameReset
+[2019.08.13-15.26.51:710][148]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Event Dispatcher pin is not connected  Bind Event to OnGameReset
+[2019.08.13-15.26.51:710][148]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Failed to create property K2Node_AddDelegate_Delegate from  <None>  due to a bad or unknown type (Delegate (by ref))
+[2019.08.13-15.26.51:933][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.08.13-15.26.51:941][148]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] [1459.29] Compile of BP_VariableBand_TargetDropSet failed. 3 Fatal Issue(s) 0 Warning(s) [in 240 ms] (/Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet)
+[2019.08.13-15.26.53:761][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_VariableBand_TargetDropSet" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset" SILENT=true
+[2019.08.13-15.26.53:955][194]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSet91E3266D486CFD3819C249B109C78FCA.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset'
+[2019.08.13-15.28.42:940][333]LogHttp: Warning: 00000208AA117100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.28.42:940][333]LogHttp: Warning: 00000208AA117100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.28.42:940][333]LogHttp: Warning: 00000208AA117100: libcurl info message cache 1 (Closing connection 12)
+[2019.08.13-15.28.43:269][334]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.29.07:363][761]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.29.07:371][761]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] ResetDropTargetCounter  : unable to determine expected signature - is the delegate pin connected?
+[2019.08.13-15.29.07:371][761]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Could not find an event-dispatcher named "OnGameReset" in 'PinballGameMode_C'.
+Make sure 'PinballGameMode_C' has been compiled for  Bind Event to OnGameReset
+[2019.08.13-15.29.07:371][761]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2019.08.13-15.29.07:425][761]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] ResetDropTargetCounter  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2019.08.13-15.29.07:662][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.08.13-15.29.07:670][761]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] [1595.02] Compile of BP_VariableBand_TargetDropSet failed. 4 Fatal Issue(s) 0 Warning(s) [in 306 ms] (/Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet)
+[2019.08.13-15.29.09:676][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_VariableBand_TargetDropSet" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset" SILENT=true
+[2019.08.13-15.29.09:741][809]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSet862BC4174B468420932B6BA2A23C6663.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset'
+[2019.08.13-15.30.07:039][ 34]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.30.07:050][ 34]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] ResetDropTargetCounter  : unable to determine expected signature - is the delegate pin connected?
+[2019.08.13-15.30.07:050][ 34]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Could not find an event-dispatcher named "OnGameReset" in 'PinballGameMode_C'.
+Make sure 'PinballGameMode_C' has been compiled for  Bind Event to OnGameReset
+[2019.08.13-15.30.07:051][ 34]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2019.08.13-15.30.07:052][ 34]LogBlueprint: Error: [Compiler BP_VariableBand_TargetDropSet] ResetDropTargetCounter  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2019.08.13-15.30.07:278][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.08.13-15.30.07:286][ 34]LogBlueprint: Warning: [Compiler BP_VariableBand_TargetDropSet] [1654.64] Compile of BP_VariableBand_TargetDropSet failed. 4 Fatal Issue(s) 0 Warning(s) [in 246 ms] (/Game/BlueBrint/BP_VariableBand_TargetDropSet.BP_VariableBand_TargetDropSet)
+[2019.08.13-15.30.33:496][305]BlueprintLog: New page: Compile PinballGameMode
+[2019.08.13-15.30.33:815][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.08.13-15.30.35:205][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballGameMode" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset" SILENT=true
+[2019.08.13-15.30.35:259][335]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballGameMode6CAB172B4748099DD0CE1485906E72BA.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset'
+[2019.08.13-15.30.38:122][415]BlueprintLog: New page: Compile BP_VariableBand_TargetDropSet
+[2019.08.13-15.30.38:365][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.08.13-15.30.39:761][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_VariableBand_TargetDropSet" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset" SILENT=true
+[2019.08.13-15.30.39:824][453]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_VariableBand_TargetDropSet71067743407F31ADD5EE0CBE00909115.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_VariableBand_TargetDropSet.uasset'
+[2019.08.13-15.30.43:745][490]LogHttp: Warning: 00000208C848B740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.30.43:745][490]LogHttp: Warning: 00000208C848B740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.30.43:745][490]LogHttp: Warning: 00000208C848B740: libcurl info message cache 1 (Closing connection 13)
+[2019.08.13-15.30.43:745][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.32.44:373][757]LogHttp: Warning: 00000208AEB35300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.32.44:373][757]LogHttp: Warning: 00000208AEB35300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.32.44:373][757]LogHttp: Warning: 00000208AEB35300: libcurl info message cache 1 (Closing connection 14)
+[2019.08.13-15.32.44:709][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.34.44:785][473]LogHttp: Warning: 000002088B76E0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.34.44:785][473]LogHttp: Warning: 000002088B76E0C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.34.44:785][473]LogHttp: Warning: 000002088B76E0C0: libcurl info message cache 1 (Closing connection 15)
+[2019.08.13-15.34.44:819][474]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.35.23:568][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_199.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:568][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_198.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:568][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_197.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:568][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_196.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:568][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_195.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:573][600]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14833.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:573][600]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14832.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:573][600]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14831.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:573][600]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14830.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:573][600]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14829.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:577][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_209.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:577][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:577][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_207.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:577][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.23:577][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_205.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:157][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_209.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:157][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:157][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_207.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:157][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:157][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_205.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:163][646]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14843.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:163][646]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14842.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:163][646]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14841.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:163][646]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14840.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:163][646]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14839.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:167][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_219.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:167][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_218.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:167][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_217.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:167][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_216.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.25:167][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_215.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:453][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_219.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:453][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_218.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:453][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_217.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:453][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_216.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:453][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_215.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:459][713]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14853.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:460][713]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14852.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:460][713]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14851.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:460][713]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14850.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:460][713]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14849.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:463][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_229.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:463][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_228.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:463][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_227.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:463][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_226.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.27:463][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_225.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:428][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_229.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:429][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_228.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:429][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_227.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:429][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_226.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:429][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_225.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:433][ 61]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14863.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:433][ 61]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14862.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:433][ 61]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14861.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:433][ 61]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14860.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:433][ 61]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14859.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:437][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_239.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:437][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_238.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:437][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_237.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:437][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_236.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.35.44:437][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_235.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:245][175]BlueprintLog: New page: Compile BP_DropTarget
+[2019.08.13-15.36.00:460][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.08.13-15.36.00:466][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_239.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:466][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_238.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:466][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_237.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:466][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_236.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:466][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_235.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:470][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14873.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:470][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14872.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:470][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14871.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:470][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14870.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:470][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14869.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:472][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_249.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:472][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_248.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:473][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_247.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:473][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_246.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:473][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_245.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:499][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_259.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:499][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_258.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:499][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_257.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:499][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_256.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:499][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_255.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:503][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14893.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:503][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14892.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:503][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14891.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:503][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14890.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:503][175]LogActorComponent: RegisterComponentWithWorld: (/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_14889.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:506][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_269.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:506][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_268.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:506][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_267.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:506][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_266.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.00:506][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_265.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.13-15.36.01:379][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_DropTarget" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_DropTarget.uasset" SILENT=true
+[2019.08.13-15.36.01:586][191]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_DropTarget061D16F54B2D20301C9972A7330A308A.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_DropTarget.uasset'
+[2019.08.13-15.36.26:185][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.08.13-15.36.26:186][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.13-15.36.26:385][281]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto3D5FAC4E449CA37C1AF2F7D88550453DE.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto3.umap'
+[2019.08.13-15.36.26:387][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.243
+[2019.08.13-15.36.26:387][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2019.08.13-15.36.28:744][355]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.13-15.36.28:782][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.36.28:782][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-15.36.28:782][355]PIE: New page: PIE session: BasicSetting (Aug 13, 2019, 7:36:28 PM)
+[2019.08.13-15.36.28:782][355]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.13-15.36.28:977][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195221s)
+[2019.08.13-15.36.28:979][355]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.13-15.36.28:980][355]LogPlayLevel: PIE: World Init took: (0.002544s)
+[2019.08.13-15.36.28:980][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.198172s)
+[2019.08.13-15.36.29:056][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.13-15.36.29:057][355]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.13-15.36.29:068][355]LogInit: FAudioDevice initialized.
+[2019.08.13-15.36.29:099][355]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.13-15.36.29:101][355]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.13-17.36.29
+[2019.08.13-15.36.29:101][355]LogWorld: Bringing up level for play took: 0.001762
+[2019.08.13-15.36.29:114][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.36.29:115][355]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.025
+[2019.08.13-15.36.29:115][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.36.44:881][298]LogHttp: Warning: 0000020875915F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.36.44:882][298]LogHttp: Warning: 0000020875915F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.36.44:882][298]LogHttp: Warning: 0000020875915F80: libcurl info message cache 1 (Closing connection 16)
+[2019.08.13-15.36.44:882][298]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-15.36.57:116][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.36.59:738][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.37.01:300][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.37.05:634][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.37.05:634][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.37.05:673][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-15.37.05:673][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.13-15.37.05:761][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-15.37.05:767][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.08.13-15.37.05:782][540]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.13-15.37.08:995][641]LogEditorViewport: Clicking on Actor (LMB): BallBlueprint_C (BallBlueprint)
+[2019.08.13-15.37.11:586][728]Cmd: DELETE
+[2019.08.13-15.37.11:586][728]Cmd: ACTOR DELETE
+[2019.08.13-15.37.11:645][728]LogEditorActor: Deleted Actor: BallBlueprint_C
+[2019.08.13-15.37.11:737][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.13-15.37.11:737][728]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2019.08.13-15.37.25:800][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.13-15.37.25:833][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.13-15.37.25:872][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.08.13-15.37.26:062][939]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting8A266C6C42694EDFB13113B1305210AC.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap'
+[2019.08.13-15.37.27:379][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.37.27:549][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.13-15.37.27:917][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.13-15.37.28:027][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.13-15.37.28:103][982]LogSlate: Window 'PinballGameMode' being destroyed
+[2019.08.13-15.37.28:121][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.13-15.37.28:180][982]LogSlate: Window 'PinballMachine - Unreal Editor' being destroyed
+[2019.08.13-15.37.28:181][982]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.13-15.37.28:423][983]Cmd: QUIT_EDITOR
+[2019.08.13-15.37.28:970][983]LogExit: Preparing to exit.
+[2019.08.13-15.37.30:215][983]LogExit: Editor shut down
+[2019.08.13-15.37.30:215][983]LogExit: Transaction tracking system shut down
+[2019.08.13-15.37.30:689][983]LogExit: Object subsystem successfully closed.
+[2019.08.13-15.37.30:701][983]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.13-15.37.30:706][983]LogD3D11RHI: Shutdown
+[2019.08.13-15.37.30:706][983]LogD3D11RHI: CleanupD3DDevice
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-15.37.30:706][983]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-15.37.30:840][983]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module StatsViewer (646)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (644)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module BlueprintGraph (642)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2019.08.13-15.37.30:862][983]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.13-15.37.30:864][983]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.13-15.37.30:865][983]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.13-15.37.30:866][983]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.13-15.37.30:866][983]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.13-15.37.31:957][983]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.13-15.37.31:957][983]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.13-15.37.31:958][983]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.13-15.37.31:959][983]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.13-15.37.32:002][983]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.13-15.37.32:003][983]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.13-15.37.32:003][983]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.13-15.37.32:003][983]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.13-15.37.32:003][983]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.13-15.37.32:003][983]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.13-15.37.32:020][983]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.13-15.37.32:021][983]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.13-15.37.32:022][983]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.13-15.37.32:023][983]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.13-15.37.32:031][983]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.13-15.37.32:163][983]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.13-15.37.32:164][983]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.13-15.37.32:165][983]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.13-15.37.32:166][983]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.13-15.37.32:167][983]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.13-15.37.32:269][983]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.13-15.37.32:369][983]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.13-15.37.32:369][983]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.13-15.37.32:369][983]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.13-15.37.32:369][983]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.13-15.37.32:369][983]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.13-15.37.32:370][983]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.13-15.37.32:370][983]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.13-15.37.32:370][983]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.13-15.37.32:370][983]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.13-15.37.32:370][983]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.13-15.37.32:371][983]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.13-15.37.32:371][983]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.13-15.37.32:371][983]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.13-15.37.32:371][983]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.13-15.37.32:374][983]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.13-15.37.32:375][983]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.13-15.37.32:375][983]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.13-15.37.32:375][983]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.13-15.37.32:377][983]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.13-15.37.32:384][983]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.13-15.37.32:385][983]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.13-15.37.32:386][983]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.13-15.37.32:386][983]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.13-15.37.32:386][983]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.13-15.37.32:386][983]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.13-15.37.32:395][983]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.13-15.37.32:396][983]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.13-15.37.32:396][983]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.13-15.37.32:396][983]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.13-15.37.32:441][983]LogDerivedDataCache: Shutdown
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.13-15.37.32:441][983]LogXGEController: Cleaning working directory: C:/Users/Mostafa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.13-15.37.32:441][983]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.13-15.37.32:442][983]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.13-15.37.32:444][983]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.13-15.37.32:444][983]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.13-15.37.32:444][983]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.13-15.37.32:445][983]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.13-15.37.32:445][983]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.13-15.37.32:446][983]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.13-15.37.32:446][983]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.13-15.37.32:448][983]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.13-15.37.32:448][983]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.13-15.37.32:503][983]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.13-15.37.32:504][983]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.13-15.37.32:504][983]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.13-15.37.32:506][983]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.13-15.37.32:506][983]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.13-15.37.32:514][983]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.13-15.37.32:514][983]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.13-15.37.32:514][983]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEB4F68B-4ECD-4DDC-A1B3-FDB66AC20244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.13-15.37.32:514][983]LogHttp: Warning: 000002087A38F240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-15.37.32:514][983]LogHttp: Warning: 000002087A38F240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-15.37.32:514][983]LogHttp: Warning: 000002087A38F240: libcurl info message cache 1 (Closing connection 17)
+[2019.08.13-15.37.32:526][983]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.13-15.37.32:528][983]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.13-15.37.32:531][983]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.13-15.37.32:538][983]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.13-15.37.32:538][983]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.13-15.37.32:538][983]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.13-15.37.32:538][983]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.13-15.37.32:539][983]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.13-15.37.32:539][983]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.13-15.37.32:539][983]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.13-15.37.32:539][983]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.13-15.37.32:539][983]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.13-15.37.32:540][983]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.13-15.37.32:540][983]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.13-15.37.32:541][983]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.13-15.37.32:548][983]LogExit: Exiting.
+[2019.08.13-15.37.32:591][983]Log file closed, 08/13/19 17:37:32
