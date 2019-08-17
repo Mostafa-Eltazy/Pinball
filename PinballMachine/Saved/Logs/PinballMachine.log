@@ -1113,3 +1113,1264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.17-16.44.40:505][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.08.17-16.44.40:547][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2019.08.17-16.44.40:776][487]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSettingF78A235B4B279016290085B0C3C29201.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap'
+[2019.08.17-17.30.49:359][989]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_BracketTop.FBX)
+[2019.08.17-17.30.49:372][989]LogFbx: Loading FBX Scene from E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_BracketTop.FBX
+[2019.08.17-17.30.49:379][989]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.17-17.30.50:824][989]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.17-17.30.51:510][989]LogStaticMesh: Building static mesh SM_BracketTop...
+[2019.08.17-17.30.51:518][989]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.08.17-17.30.51:520][989]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM_BracketTop.SM_BracketTop
+[2019.08.17-17.30.51:543][989]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.08.17-17.30.54:616][ 61]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.30.54:642][ 61]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.31.07:631][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_LBracket.FBX)
+[2019.08.17-17.31.07:659][295]LogFbx: Loading FBX Scene from E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_LBracket.FBX
+[2019.08.17-17.31.07:688][295]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.17-17.31.09:863][295]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.17-17.31.09:888][295]LogStaticMesh: Building static mesh SM_LBracket...
+[2019.08.17-17.31.09:889][295]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SM_LBracket.SM_LBracket
+[2019.08.17-17.31.09:902][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.08.17-17.31.11:769][364]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.31.11:794][364]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.31.37:399][543]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2019.08.17-17.31.37:399][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.156
+[2019.08.17-17.31.37:401][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_BracketTop] ([1] browsable assets)...
+[2019.08.17-17.31.37:479][543]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_BracketTop.SM_BracketTop]
+[2019.08.17-17.31.37:479][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_BracketTop]
+[2019.08.17-17.31.37:479][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_BracketTop" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_BracketTop_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.31.37:495][543]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/SM_BracketTop_Auto2F1EA5D584D229E1CB40B2E87CFBB2629.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_BracketTop_Auto2.uasset'
+[2019.08.17-17.31.37:495][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_LBracket] ([1] browsable assets)...
+[2019.08.17-17.31.37:576][543]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_LBracket.SM_LBracket]
+[2019.08.17-17.31.37:576][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_LBracket]
+[2019.08.17-17.31.37:576][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_LBracket" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_LBracket_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.31.37:594][543]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/SM_LBracket_Auto2184D9B4645187ECD7213959CFAEC5E35.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_LBracket_Auto2.uasset'
+[2019.08.17-17.31.37:594][543]LogFileHelpers: Auto-saving content packages took 0.194
+[2019.08.17-17.31.44:758][599]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_SpinnerTile.FBX)
+[2019.08.17-17.31.44:786][599]LogFbx: Loading FBX Scene from E:\Game-DEV\Unreal\Unreal Engine 4 How to Develop Your First Two Games\2. Developing a game of Pinball\PinballAssets\SM_SpinnerTile.FBX
+[2019.08.17-17.31.44:805][599]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.17-17.31.46:210][599]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.17-17.31.46:302][599]LogLinker: Can't find file '/Game/Assets/T_Mult_6X'
+[2019.08.17-17.31.46:302][599]LogLinker: Can't find file '/Game/Assets/T_Mult_6X'
+[2019.08.17-17.31.46:307][599]LogFbxMaterialImport: Warning: Unable to find Texture file D:/UE4Public/Resources/Pinball/Textures/T_Mult_6X.TGA
+[2019.08.17-17.31.46:311][599]LogMaterial: Display: Missing cached shader map for material M_SpinnerTile, compiling. 
+[2019.08.17-17.31.46:401][599]LogStaticMesh: Building static mesh SM_SpinnerTile...
+[2019.08.17-17.31.46:406][599]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SM_SpinnerTile.SM_SpinnerTile
+[2019.08.17-17.31.46:417][599]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.08.17-17.31.48:067][656]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.31.48:093][656]LogSlate: Window 'Message Log' being destroyed
+[2019.08.17-17.32.08:307][ 62]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.17-17.32.15:384][478]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/BP_Spinner.BP_Spinner
+[2019.08.17-17.32.15:776][479]LogRenderer: Reallocating scene render targets to support 776x348 Format 10 NumSamples 1 (Frame:1).
+[2019.08.17-17.32.50:638][131]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.08.17-17.33.14:364][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.33.33:260][146]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.17-17.33.37:564][303]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.17-17.33.39:974][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.33.45:552][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.33.53:541][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.34.17:222][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.34.57:081][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.36.01:857][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.37.02:529][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.18:006][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.18:947][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.19:680][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.20:284][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.20:293][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.20:498][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.21:274][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.23:711][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.24:219][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.24:490][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.24:646][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.36:152][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.39.46:739][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.40.17:182][758]LogEditorTransaction: Undo Add Component
+[2019.08.17-17.40.24:657][ 27]LogEditorTransaction: Undo Attach Component
+[2019.08.17-17.40.54:109][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.41.38:105][397]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2019.08.17-17.41.38:105][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.200
+[2019.08.17-17.41.38:107][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_SpinnerTile] ([1] browsable assets)...
+[2019.08.17-17.41.38:205][397]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_SpinnerTile.SM_SpinnerTile]
+[2019.08.17-17.41.38:206][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_SpinnerTile]
+[2019.08.17-17.41.38:206][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_SpinnerTile" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_SpinnerTile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.41.38:243][397]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/SM_SpinnerTile_Auto33D70005142BDE686415AA0A09BAF18E9.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/SM_SpinnerTile_Auto3.uasset'
+[2019.08.17-17.41.38:244][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_SpinnerTile] ([1] browsable assets)...
+[2019.08.17-17.41.38:345][397]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_SpinnerTile.M_SpinnerTile]
+[2019.08.17-17.41.38:345][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_SpinnerTile]
+[2019.08.17-17.41.38:347][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SpinnerTile" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/M_SpinnerTile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.41.38:388][397]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/M_SpinnerTile_Auto3A14B3AA1487A10E6D328E89BBD2C8233.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/Assets/M_SpinnerTile_Auto3.uasset'
+[2019.08.17-17.41.38:388][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueBrint/BP_Spinner] ([1] browsable assets)...
+[2019.08.17-17.41.38:481][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueBrint/BP_Spinner.BP_Spinner]
+[2019.08.17-17.41.38:481][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/BP_Spinner]
+[2019.08.17-17.41.38:481][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.41.38:520][397]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner_Auto3E6D72F234711D202DD6D928618C1A206.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto3.uasset'
+[2019.08.17-17.41.38:521][397]LogFileHelpers: Auto-saving content packages took 0.414
+[2019.08.17-17.41.53:003][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.41.54:254][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.42.11:444][147]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:444][147]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:445][147]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:445][147]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:470][148]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:470][148]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:471][148]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:471][148]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:497][149]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:497][149]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:497][149]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:497][149]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:524][150]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:524][150]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:525][150]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:525][150]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:550][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:550][151]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:551][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:551][151]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:577][152]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:577][152]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:577][152]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:577][152]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:604][153]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:604][153]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:604][153]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:604][153]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:630][154]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:630][154]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:631][154]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:631][154]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:656][155]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:656][155]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:657][155]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:657][155]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:683][156]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:683][156]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:684][156]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:684][156]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:710][157]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:710][157]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:710][157]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:710][157]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:736][158]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:736][158]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:737][158]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:737][158]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:763][159]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:763][159]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:764][159]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:764][159]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:789][160]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:789][160]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:789][160]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:789][160]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:815][161]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:815][161]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:816][161]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:816][161]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:842][162]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:843][162]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:843][162]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:843][162]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:869][163]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:869][163]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:869][163]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:869][163]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:895][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:895][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:896][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:896][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:922][165]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:922][165]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:922][165]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:922][165]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:949][166]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:949][166]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:950][166]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:950][166]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:974][167]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:975][167]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.11:975][167]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.11:975][167]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:001][168]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:001][168]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:001][168]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:001][168]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:028][169]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:028][169]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:028][169]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:028][169]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:054][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:054][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:054][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:055][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:080][171]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:080][171]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:081][171]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:081][171]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:107][172]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:107][172]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:107][172]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:107][172]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:134][173]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:134][173]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:134][173]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:134][173]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:160][174]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:160][174]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:160][174]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:160][174]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:186][175]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:186][175]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:187][175]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:187][175]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:213][176]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:213][176]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:213][176]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:213][176]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:239][177]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:240][177]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:240][177]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:240][177]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:266][178]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:266][178]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:267][178]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:267][178]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:292][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:292][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:293][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:293][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:318][180]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:318][180]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:319][180]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:319][180]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:345][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:345][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:346][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:346][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:372][182]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:372][182]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:372][182]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:372][182]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:399][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:399][183]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:399][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:399][183]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:425][184]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:425][184]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:425][184]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:425][184]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:451][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:451][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:451][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:452][185]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:477][186]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:477][186]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:477][186]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:477][186]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:504][187]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:504][187]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:504][187]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:504][187]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:530][188]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:530][188]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:531][188]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:531][188]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:557][189]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:557][189]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:557][189]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:557][189]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:583][190]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:583][190]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:583][190]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:583][190]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:610][191]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:610][191]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:610][191]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:610][191]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:635][192]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:636][192]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:636][192]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:636][192]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:662][193]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:662][193]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:663][193]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:663][193]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:689][194]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:689][194]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.12:689][194]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.17-17.42.12:690][194]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.17-17.42.41:188][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.43.17:171][207]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_LBracket.SM_LBracket
+[2019.08.17-17.43.17:298][207]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.08.17-17.43.18:993][208]LogRenderer: Reallocating scene render targets to support 776x608 Format 10 NumSamples 1 (Frame:1).
+[2019.08.17-17.43.33:696][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.43.42:979][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.43.47:918][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.43.48:092][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_LBracket" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/SM_LBracket.uasset" SILENT=true
+[2019.08.17-17.43.48:144][643]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/SM_LBracket2792827B4EB1FEB893923B8BB4E0DB91.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/SM_LBracket.uasset'
+[2019.08.17-17.43.54:682][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.44.04:552][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.44.12:965][109]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_BracketTop.SM_BracketTop
+[2019.08.17-17.44.20:081][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_BracketTop" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/SM_BracketTop.uasset" SILENT=true
+[2019.08.17-17.44.20:181][201]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/SM_BracketTop2957CC1849870CF9E19BDB982A0C4889.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/SM_BracketTop.uasset'
+[2019.08.17-17.44.29:124][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BinballAttenuation" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/BinballAttenuation.uasset" SILENT=true
+[2019.08.17-17.44.29:138][349]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BinballAttenuation85D12A554EAE1BC2CB9530B7B1FD38B9.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/BinballAttenuation.uasset'
+[2019.08.17-17.44.31:110][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BumberHit" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/BumberHit.uasset" SILENT=true
+[2019.08.17-17.44.31:171][386]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BumberHit9BCD98E643BE171D563D9BA9E044986A.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/BumberHit.uasset'
+[2019.08.17-17.44.33:610][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallLoose_Cue" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/Pinball_BallLoose_Cue.uasset" SILENT=true
+[2019.08.17-17.44.33:702][431]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/Pinball_BallLoose_Cue81A2CC2D47A15FBFA527EA88E20EB916.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/Pinball_BallLoose_Cue.uasset'
+[2019.08.17-17.44.37:255][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BallBlueprint" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BallBlueprint.uasset" SILENT=true
+[2019.08.17-17.44.37:305][497]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BallBlueprint796B7D3E4FF694CF7FAF689F888B3522.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BallBlueprint.uasset'
+[2019.08.17-17.44.38:259][516]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.17-17.44.40:972][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.17-17.44.43:223][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/PinballFlibber_Cue" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/PinballFlibber_Cue.uasset" SILENT=true
+[2019.08.17-17.44.43:280][607]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballFlibber_CueD16A0F9E4EBDC69B9D43E3B3EFD07B03.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/PinballFlibber_Cue.uasset'
+[2019.08.17-17.44.45:378][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/MultiplierHitting" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/MultiplierHitting.uasset" SILENT=true
+[2019.08.17-17.44.45:428][644]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/MultiplierHitting94ED5C0A4A371D802EEF0A9DB7566BCF.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/MultiplierHitting.uasset'
+[2019.08.17-17.44.49:027][719]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.17-17.44.51:496][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Rolling" FILE="E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/Pinball_Rolling.uasset" SILENT=true
+[2019.08.17-17.44.51:568][763]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/Pinball_RollingAF4E68BA40DFCB6E3006A9B5917123A8.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/Assets/Sounds/Pinball_Rolling.uasset'
+[2019.08.17-17.44.55:071][827]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.44.55:543][827]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2019.08.17-17.45.40:196][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.45.54:078][326]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.45.54:395][326]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.08.17-17.45.55:017][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.45.55:045][333]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner7F928A17416CFBE3219D999BC6C50DA4.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.46.20:903][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.46.52:595][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.46.57:071][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.46.57:130][ 40]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.46.57:357][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.08.17-17.46.58:035][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.46.58:102][ 50]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner2C5E848F4C1625E9C50FDAB3B95294DC.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.49.27:981][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.49.28:041][412]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.49.28:332][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.08.17-17.49.28:879][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.49.28:919][417]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner5EDD78DB4E46438CD8CBCEA021961877.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.50.21:922][817]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.50.22:120][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.08.17-17.50.22:792][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.50.22:820][827]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner49F8E377475A8A5AF563E6A446579B82.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.51.11:715][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.51.52:530][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.51.58:057][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.51.58:102][679]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_SpinnerFD37BA2845FFDE91B1464086298995AC.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.52.00:126][716]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Plastic_Inst_White.Plastic_Inst_White
+[2019.08.17-17.52.00:169][716]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2019.08.17-17.52.00:590][716]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2019.08.17-17.52.00:614][716]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.17-17.52.00:618][716]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2019.08.17-17.52.00:678][716]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-17.52.02:190][736]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.17-17.52.03:874][772]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.17-17.52.06:160][819]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.08.17-17.52.06:160][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.08.17-17.52.06:160][819]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.08.17-17.52.06:160][819]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.17-17.52.13:014][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.52.51:019][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.08.17-17.52.51:019][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.039
+[2019.08.17-17.52.51:020][330]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueBrint/BP_Spinner] ([1] browsable assets)...
+[2019.08.17-17.52.51:058][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueBrint/BP_Spinner.BP_Spinner]
+[2019.08.17-17.52.51:058][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/BP_Spinner]
+[2019.08.17-17.52.51:058][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-17.52.51:086][330]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner_Auto4AA25667A4E69480895A97F953406E201.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto4.uasset'
+[2019.08.17-17.52.51:087][330]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.08.17-17.53.00:921][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.53.31:989][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.54.10:080][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.54.32:365][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.54.48:946][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.54.49:063][535]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.54.49:259][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.08.17-17.54.49:265][535]PIE: Warning: Constraint in '/Engine/Transient.World_15:PersistentLevel.BP_Spinner_C_6.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2019.08.17-17.54.50:726][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.54.50:826][558]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_SpinnerBAF607D34883A56517615C80264E004F.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.55.16:238][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.55.32:660][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.55.32:786][  0]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.55.32:968][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.17-17.55.32:975][  0]PIE: Warning: Constraint in '/Engine/Transient.World_15:PersistentLevel.BP_Spinner_C_7.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2019.08.17-17.55.33:625][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.55.33:653][ 10]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner311BA52F48BBE7834E643C9A1CE45881.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.55.35:841][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.55.42:498][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.55.58:862][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.56.19:877][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.56.30:133][772]LogEditorTransaction: Undo Attach Component
+[2019.08.17-17.56.30:201][772]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2019.08.17-17.56.30:418][772]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.17-17.56.32:014][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.17-17.56.34:908][840]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.08.17-17.56.34:908][840]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.08.17-17.56.34:908][840]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.08.17-17.56.34:908][840]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.17-17.57.11:780][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.57.23:298][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.57.29:836][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.57.42:165][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.58.11:866][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.58.11:922][168]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-17.58.12:184][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.08.17-17.58.12:191][168]PIE: Warning: Constraint in '/Engine/Transient.World_15:PersistentLevel.BP_Spinner_C_8.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2019.08.17-17.58.12:942][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-17.58.12:985][178]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_SpinnerDFFFA10E4348AF48DF95B191B3E658B8.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-17.58.39:959][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.58.42:290][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.58.48:196][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.59.34:865][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.59.35:717][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-17.59.35:759][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-17.59.35:786][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-17.59.35:786][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-17.59.35:787][325]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 9:59:35 PM)
+[2019.08.17-17.59.35:788][325]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-17.59.35:799][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011410s)
+[2019.08.17-17.59.35:800][325]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-17.59.35:800][325]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2019.08.17-17.59.35:800][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.012441s)
+[2019.08.17-17.59.35:851][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.08.17-17.59.35:854][325]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-17.59.35:869][325]LogInit: FAudioDevice initialized.
+[2019.08.17-17.59.35:906][325]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-17.59.35:908][325]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-19.59.35
+[2019.08.17-17.59.35:909][325]LogWorld: Bringing up level for play took: 0.002321
+[2019.08.17-17.59.35:922][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-17.59.35:923][325]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.862
+[2019.08.17-17.59.35:923][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-17.59.39:202][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-17.59.39:202][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-17.59.39:236][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-17.59.39:237][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-17.59.39:281][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-17.59.39:287][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.08.17-17.59.39:318][514]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.17-17.59.47:393][700]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.59.47:812][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.59.48:581][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.59.49:038][725]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.59.49:136][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-17.59.49:807][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-17.59.52:528][800]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.00.03:958][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.00.04:919][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.00.05:005][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.00.05:022][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.05:022][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.00.05:022][ 89]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:00:05 PM)
+[2019.08.17-18.00.05:023][ 89]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.00.05:033][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009334s)
+[2019.08.17-18.00.05:033][ 89]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.00.05:033][ 89]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.08.17-18.00.05:033][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010320s)
+[2019.08.17-18.00.05:082][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.08.17-18.00.05:084][ 89]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.00.05:094][ 89]LogInit: FAudioDevice initialized.
+[2019.08.17-18.00.05:125][ 89]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.00.05:128][ 89]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.00.05
+[2019.08.17-18.00.05:128][ 89]LogWorld: Bringing up level for play took: 0.002162
+[2019.08.17-18.00.05:141][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.05:142][ 89]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.081
+[2019.08.17-18.00.05:142][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.08:634][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.08:635][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.08:667][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.00.08:668][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.08:711][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.08:717][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.17-18.00.08:749][294]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.08.17-18.00.11:348][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.00.14:345][412]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.00.16:573][464]Cmd: DELETE
+[2019.08.17-18.00.16:573][464]Cmd: ACTOR DELETE
+[2019.08.17-18.00.16:934][464]LogEditorActor: Deleted Actor: BP_Spinner_C
+[2019.08.17-18.00.17:017][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.17-18.00.17:017][464]LogEditorActor: Deleted 1 Actors (0.145 secs)
+[2019.08.17-18.00.18:550][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.00.22:691][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.00.22:776][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.00.22:795][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.22:795][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.00.22:795][689]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:00:22 PM)
+[2019.08.17-18.00.22:796][689]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.00.22:806][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010305s)
+[2019.08.17-18.00.22:806][689]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.00.22:807][689]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.08.17-18.00.22:807][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011031s)
+[2019.08.17-18.00.22:851][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.17-18.00.22:853][689]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.00.22:863][689]LogInit: FAudioDevice initialized.
+[2019.08.17-18.00.22:891][689]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.00.22:893][689]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.00.22
+[2019.08.17-18.00.22:894][689]LogWorld: Bringing up level for play took: 0.002432
+[2019.08.17-18.00.22:907][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.22:907][689]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.154
+[2019.08.17-18.00.22:907][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.28:312][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.28:313][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.28:345][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.00.28:345][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.28:389][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.28:395][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.08.17-18.00.28:411][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.08.17-18.00.32:513][100]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.00.47:251][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.00.48:149][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.00.48:192][460]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.00.48:207][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.48:208][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.00.48:208][460]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:00:48 PM)
+[2019.08.17-18.00.48:209][460]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.00.48:219][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010699s)
+[2019.08.17-18.00.48:220][460]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.00.48:220][460]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2019.08.17-18.00.48:220][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011813s)
+[2019.08.17-18.00.48:267][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.17-18.00.48:268][460]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.00.48:279][460]LogInit: FAudioDevice initialized.
+[2019.08.17-18.00.48:308][460]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.00.48:310][460]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.00.48
+[2019.08.17-18.00.48:310][460]LogWorld: Bringing up level for play took: 0.002281
+[2019.08.17-18.00.48:324][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.48:324][460]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.737
+[2019.08.17-18.00.48:325][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.51:959][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.51:959][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.51:992][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.00.51:992][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.00.52:037][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.00.52:043][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.17-18.00.52:076][676]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.08.17-18.00.58:262][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.00.59:388][838]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.01.09:749][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.01.19:668][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.01.20:469][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.01.20:555][321]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.01.20:571][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.01.20:572][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.01.20:572][321]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:01:20 PM)
+[2019.08.17-18.01.20:573][321]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.01.20:583][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010381s)
+[2019.08.17-18.01.20:583][321]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.01.20:584][321]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.08.17-18.01.20:584][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011138s)
+[2019.08.17-18.01.20:632][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.17-18.01.20:633][321]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.01.20:644][321]LogInit: FAudioDevice initialized.
+[2019.08.17-18.01.20:673][321]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.01.20:675][321]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.01.20
+[2019.08.17-18.01.20:676][321]LogWorld: Bringing up level for play took: 0.002271
+[2019.08.17-18.01.20:689][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.01.20:689][321]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.372
+[2019.08.17-18.01.20:689][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.01.24:742][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.01.24:743][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.01.24:774][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.01.24:774][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.01.24:818][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.01.24:823][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.17-18.01.24:855][562]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.08.17-18.01.31:865][719]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.01.43:161][981]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.01.44:302][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.01.50:097][136]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.01.58:315][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.01.58:399][326]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.01.58:416][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.01.58:416][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.01.58:416][326]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:01:58 PM)
+[2019.08.17-18.01.58:417][326]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.01.58:427][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010124s)
+[2019.08.17-18.01.58:427][326]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.01.58:427][326]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.08.17-18.01.58:427][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010830s)
+[2019.08.17-18.01.58:476][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.08.17-18.01.58:478][326]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.01.58:489][326]LogInit: FAudioDevice initialized.
+[2019.08.17-18.01.58:521][326]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.01.58:524][326]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.01.58
+[2019.08.17-18.01.58:524][326]LogWorld: Bringing up level for play took: 0.002214
+[2019.08.17-18.01.58:537][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.01.58:537][326]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.524
+[2019.08.17-18.01.58:538][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.10:505][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.10:506][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.02.10:536][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.02.10:536][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.10:580][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.02.10:585][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.17-18.02.10:617][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.08.17-18.02.15:769][157]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.02.22:231][308]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.02.22:764][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.02.22:807][322]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.02.22:823][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.22:823][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.02.22:823][322]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:02:22 PM)
+[2019.08.17-18.02.22:824][322]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.02.22:835][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010264s)
+[2019.08.17-18.02.22:835][322]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.02.22:835][322]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2019.08.17-18.02.22:835][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011244s)
+[2019.08.17-18.02.22:883][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.17-18.02.22:884][322]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.02.22:895][322]LogInit: FAudioDevice initialized.
+[2019.08.17-18.02.22:924][322]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.02.22:927][322]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.02.22
+[2019.08.17-18.02.22:928][322]LogWorld: Bringing up level for play took: 0.002805
+[2019.08.17-18.02.22:941][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.02.22:941][322]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.12
+[2019.08.17-18.02.22:941][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.30:491][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.30:491][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.02.30:523][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.02.30:523][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.02.30:569][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.02.30:575][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.08.17-18.02.30:606][773]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.08.17-18.02.58:023][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.03.04:291][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-18.03.13:976][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.03.19:691][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-18.04.04:677][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.04.40:538][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.08.17-18.04.40:538][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.17-18.04.40:877][260]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto5D59949EA4574EC74C543E997C9E49B5B.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto5.umap'
+[2019.08.17-18.04.40:880][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.384
+[2019.08.17-18.04.40:880][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.384
+[2019.08.17-18.04.40:882][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueBrint/BP_Spinner] ([1] browsable assets)...
+[2019.08.17-18.04.40:976][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueBrint/BP_Spinner.BP_Spinner]
+[2019.08.17-18.04.40:976][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/BP_Spinner]
+[2019.08.17-18.04.40:976][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.08.17-18.04.41:019][260]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner_Auto539E963D447A6DDCA8830F492DD64DD1D.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/BP_Spinner_Auto5.uasset'
+[2019.08.17-18.04.41:020][260]LogFileHelpers: Auto-saving content packages took 0.138
+[2019.08.17-18.10.31:418][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.10.31:471][387]Cmd: MODE ROTGRID=0
+[2019.08.17-18.10.37:577][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.10.37:634][498]Cmd: MODE ROTGRID=1
+[2019.08.17-18.11.15:448][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.13.31:365][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.13.31:488][828]BlueprintLog: New page: Compile BP_Spinner
+[2019.08.17-18.13.31:686][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.08.17-18.13.31:694][828]PIE: Warning: Constraint in '/Engine/Transient.World_15:PersistentLevel.BP_Spinner_C_9.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2019.08.17-18.13.32:561][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BP_Spinner" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset" SILENT=true
+[2019.08.17-18.13.32:715][841]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BP_Spinner547804524E5D7918A96FF38B84CFA37E.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BP_Spinner.uasset'
+[2019.08.17-18.13.33:615][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.13.38:797][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.13.50:048][188]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.14.00:823][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.14.00:907][444]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.14.00:922][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.00:922][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.14.00:922][444]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:14:00 PM)
+[2019.08.17-18.14.00:923][444]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.14.00:931][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007777s)
+[2019.08.17-18.14.00:931][444]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.14.00:932][444]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.08.17-18.14.00:932][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.008541s)
+[2019.08.17-18.14.00:971][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.17-18.14.00:973][444]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.14.00:982][444]LogInit: FAudioDevice initialized.
+[2019.08.17-18.14.01:011][444]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.14.01:013][444]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.14.01
+[2019.08.17-18.14.01:014][444]LogWorld: Bringing up level for play took: 0.002006
+[2019.08.17-18.14.01:027][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.01:027][444]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.034
+[2019.08.17-18.14.01:027][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.08:126][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.08:127][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.08:160][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.14.08:160][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.08:196][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.08:200][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.17-18.14.08:228][868]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.17-18.14.12:083][955]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.14.12:194][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-18.14.20:926][147]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.14.22:184][177]Cmd: DELETE
+[2019.08.17-18.14.22:184][177]Cmd: ACTOR DELETE
+[2019.08.17-18.14.22:187][177]LogEditorActor: Deleted Actor: BP_Spinner_C
+[2019.08.17-18.14.22:235][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.08.17-18.14.22:235][177]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.08.17-18.14.23:241][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.14.26:637][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.14.34:288][438]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.14.49:876][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.14.50:004][804]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.14.50:023][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.50:023][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.14.50:024][804]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:14:50 PM)
+[2019.08.17-18.14.50:024][804]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.14.50:036][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011076s)
+[2019.08.17-18.14.50:036][804]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.14.50:036][804]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2019.08.17-18.14.50:036][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011881s)
+[2019.08.17-18.14.50:089][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.17-18.14.50:090][804]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.14.50:102][804]LogInit: FAudioDevice initialized.
+[2019.08.17-18.14.50:130][804]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.14.50:133][804]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.14.50
+[2019.08.17-18.14.50:133][804]LogWorld: Bringing up level for play took: 0.002335
+[2019.08.17-18.14.50:147][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.50:147][804]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 1.086
+[2019.08.17-18.14.50:147][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.55:318][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.55:318][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.55:351][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.14.55:351][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.14.55:396][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.14.55:402][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.17-18.14.55:434][110]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.17-18.15.03:076][277]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.15.22:247][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.15.22:329][722]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.15.22:347][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.15.22:347][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.15.22:347][722]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:15:22 PM)
+[2019.08.17-18.15.22:348][722]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.15.22:359][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010689s)
+[2019.08.17-18.15.22:359][722]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.15.22:359][722]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.08.17-18.15.22:359][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011455s)
+[2019.08.17-18.15.22:409][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.08.17-18.15.22:411][722]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.15.22:421][722]LogInit: FAudioDevice initialized.
+[2019.08.17-18.15.22:451][722]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.15.22:454][722]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.15.22
+[2019.08.17-18.15.22:454][722]LogWorld: Bringing up level for play took: 0.003126
+[2019.08.17-18.15.22:468][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.15.22:468][722]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.593
+[2019.08.17-18.15.22:468][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.15.28:884][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.15.28:884][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.15.28:914][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.15.28:914][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.15.28:959][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.15.28:965][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.08.17-18.15.28:995][105]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.08.17-18.15.36:646][277]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.15.44:214][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.15.44:804][457]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.15.58:760][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.16.07:173][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.16.09:915][ 31]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.16.14:818][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.16.14:943][150]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.16.14:962][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.14:962][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.16.14:962][150]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:16:14 PM)
+[2019.08.17-18.16.14:963][150]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.16.14:974][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010547s)
+[2019.08.17-18.16.14:974][150]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.16.14:974][150]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.08.17-18.16.14:974][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011257s)
+[2019.08.17-18.16.15:023][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.08.17-18.16.15:025][150]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.16.15:036][150]LogInit: FAudioDevice initialized.
+[2019.08.17-18.16.15:068][150]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.16.15:070][150]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.16.15
+[2019.08.17-18.16.15:070][150]LogWorld: Bringing up level for play took: 0.002187
+[2019.08.17-18.16.15:083][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.15:084][150]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.023
+[2019.08.17-18.16.15:085][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.22:333][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.22:334][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.22:366][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.16.22:367][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.22:413][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.22:419][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.17-18.16.22:451][583]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.08.17-18.16.23:134][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.16.23:221][601]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.16.23:236][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.23:236][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.16.23:236][601]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:16:23 PM)
+[2019.08.17-18.16.23:238][601]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.16.23:247][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009374s)
+[2019.08.17-18.16.23:248][601]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.16.23:248][601]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.08.17-18.16.23:248][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010122s)
+[2019.08.17-18.16.23:293][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.08.17-18.16.23:294][601]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.16.23:304][601]LogInit: FAudioDevice initialized.
+[2019.08.17-18.16.23:335][601]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.16.23:337][601]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.16.23
+[2019.08.17-18.16.23:337][601]LogWorld: Bringing up level for play took: 0.002250
+[2019.08.17-18.16.23:351][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.23:351][601]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.29
+[2019.08.17-18.16.23:351][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.29:738][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.29:739][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.29:772][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.16.29:772][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.29:817][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.29:823][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.17-18.16.29:854][982]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.08.17-18.16.31:924][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.16.31:967][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.16.31:983][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.31:983][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.16.31:983][ 32]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:16:31 PM)
+[2019.08.17-18.16.31:984][ 32]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.16.31:995][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011271s)
+[2019.08.17-18.16.31:996][ 32]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.16.31:996][ 32]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.08.17-18.16.31:996][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011982s)
+[2019.08.17-18.16.32:040][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.08.17-18.16.32:042][ 32]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.16.32:052][ 32]LogInit: FAudioDevice initialized.
+[2019.08.17-18.16.32:081][ 32]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.16.32:084][ 32]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.16.32
+[2019.08.17-18.16.32:084][ 32]LogWorld: Bringing up level for play took: 0.002396
+[2019.08.17-18.16.32:098][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.32:098][ 32]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 1.037
+[2019.08.17-18.16.32:098][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.33:566][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.33:566][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.33:597][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.16.33:597][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.16.33:641][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.16.33:647][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.17-18.16.33:665][118]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.08.17-18.16.41:776][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.16.43:186][324]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.16.56:824][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.17.03:739][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.17.05:086][838]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.17.11:539][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.17.11:623][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.17.11:641][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.11:641][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.17.11:641][991]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:17:11 PM)
+[2019.08.17-18.17.11:642][991]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.17.11:652][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010177s)
+[2019.08.17-18.17.11:653][991]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.17.11:653][991]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.08.17-18.17.11:653][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011088s)
+[2019.08.17-18.17.11:698][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.17-18.17.11:700][991]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.17.11:711][991]LogInit: FAudioDevice initialized.
+[2019.08.17-18.17.11:738][991]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.17.11:741][991]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.17.11
+[2019.08.17-18.17.11:742][991]LogWorld: Bringing up level for play took: 0.003515
+[2019.08.17-18.17.11:755][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.11:756][991]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.695
+[2019.08.17-18.17.11:756][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.16:333][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.16:334][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.16:364][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.17.16:364][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.16:410][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.16:415][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.17-18.17.16:448][263]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.08.17-18.17.24:505][445]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.17.31:929][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.17.32:012][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.17.32:029][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.32:029][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.17.32:029][619]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:17:32 PM)
+[2019.08.17-18.17.32:031][619]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.17.32:041][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010096s)
+[2019.08.17-18.17.32:042][619]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.17.32:042][619]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2019.08.17-18.17.32:042][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010867s)
+[2019.08.17-18.17.32:091][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.08.17-18.17.32:092][619]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.17.32:106][619]LogInit: FAudioDevice initialized.
+[2019.08.17-18.17.32:138][619]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.17.32:140][619]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.17.32
+[2019.08.17-18.17.32:140][619]LogWorld: Bringing up level for play took: 0.002150
+[2019.08.17-18.17.32:154][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.32:154][619]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 1.093
+[2019.08.17-18.17.32:154][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.37:887][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.37:887][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.37:917][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.17.37:918][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.37:963][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.37:969][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.17-18.17.38:001][961]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.08.17-18.17.41:120][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.17.42:507][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.17.50:312][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.17.50:396][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.17.50:413][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.50:413][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.17.50:413][252]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:17:50 PM)
+[2019.08.17-18.17.50:414][252]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.17.50:424][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009776s)
+[2019.08.17-18.17.50:424][252]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.17.50:424][252]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.08.17-18.17.50:424][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010591s)
+[2019.08.17-18.17.50:471][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.17-18.17.50:473][252]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.17.50:484][252]LogInit: FAudioDevice initialized.
+[2019.08.17-18.17.50:512][252]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.17.50:514][252]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.17.50
+[2019.08.17-18.17.50:515][252]LogWorld: Bringing up level for play took: 0.002243
+[2019.08.17-18.17.50:528][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.50:529][252]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.532
+[2019.08.17-18.17.50:529][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.55:111][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.55:112][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.55:146][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.17.55:147][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.17.55:194][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.17.55:199][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.08.17-18.17.55:232][525]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.08.17-18.17.58:966][611]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.18.02:397][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.18.02:481][692]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.18.02:497][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.02:497][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.18.02:497][692]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:18:02 PM)
+[2019.08.17-18.18.02:499][692]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.18.02:509][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010021s)
+[2019.08.17-18.18.02:509][692]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.18.02:509][692]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2019.08.17-18.18.02:509][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010778s)
+[2019.08.17-18.18.02:556][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.08.17-18.18.02:557][692]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.18.02:568][692]LogInit: FAudioDevice initialized.
+[2019.08.17-18.18.02:595][692]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.18.02:597][692]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.18.02
+[2019.08.17-18.18.02:598][692]LogWorld: Bringing up level for play took: 0.002201
+[2019.08.17-18.18.02:611][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.02:612][692]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.449
+[2019.08.17-18.18.02:612][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.08:628][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.08:628][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.08:661][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.18.08:661][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.08:707][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.08:713][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.17-18.18.08:744][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.08.17-18.18.10:634][ 96]Cmd: SELECT NONE
+[2019.08.17-18.18.14:351][178]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.18.30:590][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.18.30:632][559]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.18.30:649][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.30:649][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.18.30:649][559]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:18:30 PM)
+[2019.08.17-18.18.30:650][559]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.18.30:661][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010960s)
+[2019.08.17-18.18.30:661][559]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.18.30:662][559]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.08.17-18.18.30:662][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011842s)
+[2019.08.17-18.18.30:708][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.08.17-18.18.30:710][559]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.18.30:721][559]LogInit: FAudioDevice initialized.
+[2019.08.17-18.18.30:749][559]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.18.30:751][559]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.18.30
+[2019.08.17-18.18.30:751][559]LogWorld: Bringing up level for play took: 0.002377
+[2019.08.17-18.18.30:766][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.30:766][559]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.294
+[2019.08.17-18.18.30:766][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.35:901][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.35:901][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.35:938][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.18.35:938][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.18.35:983][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.18.35:989][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.17-18.18.36:020][865]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.08.17-18.18.39:170][934]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.18.40:720][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.18.55:612][304]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2019.08.17-18.18.57:626][347]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.19.06:527][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.19.06:611][550]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.19.06:627][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.06:627][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.19.06:627][550]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:19:06 PM)
+[2019.08.17-18.19.06:628][550]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.19.06:638][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010066s)
+[2019.08.17-18.19.06:639][550]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.19.06:639][550]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.08.17-18.19.06:639][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010814s)
+[2019.08.17-18.19.06:686][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.17-18.19.06:687][550]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.19.06:698][550]LogInit: FAudioDevice initialized.
+[2019.08.17-18.19.06:727][550]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.19.06:729][550]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.19.06
+[2019.08.17-18.19.06:729][550]LogWorld: Bringing up level for play took: 0.002205
+[2019.08.17-18.19.06:742][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.06:743][550]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.318
+[2019.08.17-18.19.06:743][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.14:782][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.14:783][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.14:812][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.19.14:813][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.14:858][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.14:863][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.08.17-18.19.14:896][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.08.17-18.19.20:176][147]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.19.26:988][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.19.27:030][306]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.19.27:047][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.27:047][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.19.27:047][306]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:19:27 PM)
+[2019.08.17-18.19.27:048][306]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.19.27:057][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009734s)
+[2019.08.17-18.19.27:058][306]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.19.27:058][306]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.08.17-18.19.27:058][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010692s)
+[2019.08.17-18.19.27:107][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.08.17-18.19.27:109][306]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.19.27:119][306]LogInit: FAudioDevice initialized.
+[2019.08.17-18.19.27:145][306]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.19.27:148][306]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.19.27
+[2019.08.17-18.19.27:148][306]LogWorld: Bringing up level for play took: 0.002258
+[2019.08.17-18.19.27:162][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.27:162][306]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.101
+[2019.08.17-18.19.27:162][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.32:898][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.32:899][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.32:932][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.19.32:933][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.32:981][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.32:986][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.17-18.19.33:018][646]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.08.17-18.19.34:415][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.19.34:883][690]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.19.34:899][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.34:899][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.19.34:899][690]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:19:34 PM)
+[2019.08.17-18.19.34:900][690]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.19.34:910][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010189s)
+[2019.08.17-18.19.34:911][690]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.19.34:911][690]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.08.17-18.19.34:911][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010918s)
+[2019.08.17-18.19.34:956][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.17-18.19.34:958][690]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.19.34:967][690]LogInit: FAudioDevice initialized.
+[2019.08.17-18.19.34:996][690]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.19.34:998][690]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.19.34
+[2019.08.17-18.19.34:999][690]LogWorld: Bringing up level for play took: 0.002124
+[2019.08.17-18.19.35:012][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.35:012][690]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.048
+[2019.08.17-18.19.35:013][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.38:887][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.38:887][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.38:919][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.19.38:919][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.38:964][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.38:970][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.17-18.19.39:000][920]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.08.17-18.19.45:839][ 77]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.19.52:522][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.19.52:606][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.19.52:639][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.52:639][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.19.52:639][235]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:19:52 PM)
+[2019.08.17-18.19.52:640][235]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.19.52:650][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010033s)
+[2019.08.17-18.19.52:651][235]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.19.52:651][235]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2019.08.17-18.19.52:651][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010765s)
+[2019.08.17-18.19.52:696][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.08.17-18.19.52:697][235]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.19.52:708][235]LogInit: FAudioDevice initialized.
+[2019.08.17-18.19.52:737][235]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.19.52:739][235]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.19.52
+[2019.08.17-18.19.52:740][235]LogWorld: Bringing up level for play took: 0.002140
+[2019.08.17-18.19.52:753][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.52:754][235]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.307
+[2019.08.17-18.19.52:754][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.56:859][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.56:859][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.56:894][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.19.56:895][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.19.56:938][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.19.56:944][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.17-18.19.56:977][479]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.08.17-18.20.27:343][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-18.20.27:447][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.08.17-18.20.27:448][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.17-18.20.27:715][190]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto6B3FAD2214916314BF63A97ABC545A829.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto6.umap'
+[2019.08.17-18.20.27:717][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.322
+[2019.08.17-18.20.27:717][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.322
+[2019.08.17-18.20.35:269][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.21.13:258][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.21.13:534][506]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/BallBlueprint.BallBlueprint
+[2019.08.17-18.23.10:747][868]BlueprintLog: New page: Compile BallBlueprint
+[2019.08.17-18.23.10:959][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.08.17-18.23.11:791][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/BallBlueprint" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BallBlueprint.uasset" SILENT=true
+[2019.08.17-18.23.11:840][882]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BallBlueprint3328053741989812D83C5D8BBF2EDA47.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/BallBlueprint.uasset'
+[2019.08.17-18.23.13:694][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.23.16:711][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-18.23.20:718][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.23.30:399][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.23.30:439][291]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.23.30:461][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.30:461][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.23.30:461][291]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:23:30 PM)
+[2019.08.17-18.23.30:462][291]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.23.30:474][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012134s)
+[2019.08.17-18.23.30:475][291]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.23.30:475][291]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2019.08.17-18.23.30:475][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.012995s)
+[2019.08.17-18.23.30:528][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.08.17-18.23.30:529][291]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.23.30:541][291]LogInit: FAudioDevice initialized.
+[2019.08.17-18.23.30:571][291]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.23.30:573][291]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.23.30
+[2019.08.17-18.23.30:573][291]LogWorld: Bringing up level for play took: 0.002395
+[2019.08.17-18.23.30:586][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.30:587][291]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.474
+[2019.08.17-18.23.30:587][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.39:656][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.39:657][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.39:690][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.23.39:691][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.39:740][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.39:747][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.08.17-18.23.39:778][830]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.08.17-18.23.43:028][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.23.43:114][907]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.23.43:134][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.43:134][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.23.43:135][907]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:23:43 PM)
+[2019.08.17-18.23.43:135][907]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.23.43:146][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010117s)
+[2019.08.17-18.23.43:146][907]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.23.43:146][907]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2019.08.17-18.23.43:146][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010917s)
+[2019.08.17-18.23.43:193][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.17-18.23.43:194][907]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.23.43:205][907]LogInit: FAudioDevice initialized.
+[2019.08.17-18.23.43:233][907]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.23.43:236][907]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.23.43
+[2019.08.17-18.23.43:236][907]LogWorld: Bringing up level for play took: 0.002366
+[2019.08.17-18.23.43:250][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.43:250][907]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.189
+[2019.08.17-18.23.43:250][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.54:576][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.54:577][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.54:609][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.23.54:609][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.54:656][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.54:662][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.17-18.23.54:694][584]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.08.17-18.23.56:406][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.23.56:492][626]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.23.56:513][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.23.56:513][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.23.56:513][626]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:23:56 PM)
+[2019.08.17-18.23.56:514][626]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.23.56:523][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009767s)
+[2019.08.17-18.23.56:524][626]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.23.56:524][626]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2019.08.17-18.23.56:524][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010501s)
+[2019.08.17-18.23.56:571][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.17-18.23.56:572][626]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.23.56:583][626]LogInit: FAudioDevice initialized.
+[2019.08.17-18.23.56:612][626]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.23.56:614][626]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.23.56
+[2019.08.17-18.23.56:615][626]LogWorld: Bringing up level for play took: 0.002686
+[2019.08.17-18.23.56:628][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.23.56:628][626]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.433
+[2019.08.17-18.23.56:628][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.24.09:763][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.24.09:764][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.24.09:799][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.24.09:799][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.24.09:847][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.24.09:853][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.17-18.24.09:886][412]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.08.17-18.25.43:630][930]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.26.11:707][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.26.11:789][600]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.26.11:808][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.11:808][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.26.11:808][600]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:26:11 PM)
+[2019.08.17-18.26.11:809][600]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.26.11:819][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009881s)
+[2019.08.17-18.26.11:820][600]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.26.11:820][600]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.08.17-18.26.11:820][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010651s)
+[2019.08.17-18.26.11:864][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.08.17-18.26.11:866][600]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.26.11:875][600]LogInit: FAudioDevice initialized.
+[2019.08.17-18.26.11:902][600]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.26.11:904][600]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.26.11
+[2019.08.17-18.26.11:905][600]LogWorld: Bringing up level for play took: 0.002064
+[2019.08.17-18.26.11:918][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.11:919][600]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.858
+[2019.08.17-18.26.11:919][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.17:131][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.17:131][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.17:163][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.26.17:163][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.17:211][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.17:218][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.17-18.26.17:249][911]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.08.17-18.26.24:293][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner2)
+[2019.08.17-18.26.32:862][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.26.32:945][267]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.26.32:965][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.32:965][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.26.32:965][267]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:26:32 PM)
+[2019.08.17-18.26.32:966][267]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.26.32:977][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010815s)
+[2019.08.17-18.26.32:978][267]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.26.32:978][267]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.08.17-18.26.32:978][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011641s)
+[2019.08.17-18.26.33:029][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.17-18.26.33:031][267]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.26.33:041][267]LogInit: FAudioDevice initialized.
+[2019.08.17-18.26.33:070][267]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.26.33:073][267]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.26.33
+[2019.08.17-18.26.33:073][267]LogWorld: Bringing up level for play took: 0.002850
+[2019.08.17-18.26.33:086][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.33:087][267]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.026
+[2019.08.17-18.26.33:087][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.37:770][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.37:770][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.37:802][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.26.37:802][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.26.37:851][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.26.37:857][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.08.17-18.26.37:888][546]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.08.17-18.26.41:765][629]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner2)
+[2019.08.17-18.26.42:997][659]Cmd: DELETE
+[2019.08.17-18.26.42:997][659]Cmd: ACTOR DELETE
+[2019.08.17-18.26.43:003][659]LogEditorActor: Deleted Actor: BP_Spinner_C
+[2019.08.17-18.26.43:067][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.08.17-18.26.43:068][659]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.08.17-18.26.44:161][686]LogEditorViewport: Clicking on Actor (LMB): BP_Spinner_C (BP_Spinner)
+[2019.08.17-18.27.16:884][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.27.16:968][458]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.17-18.27.16:998][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.27.16:998][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.27.16:998][458]PIE: New page: PIE session: BasicSetting (Aug 17, 2019, 10:27:16 PM)
+[2019.08.17-18.27.16:999][458]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.17-18.27.17:012][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012822s)
+[2019.08.17-18.27.17:012][458]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.17-18.27.17:013][458]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2019.08.17-18.27.17:013][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.013641s)
+[2019.08.17-18.27.17:071][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.17-18.27.17:073][458]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.27.17:083][458]LogInit: FAudioDevice initialized.
+[2019.08.17-18.27.17:109][458]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.17-18.27.17:111][458]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.17-20.27.17
+[2019.08.17-18.27.17:112][458]LogWorld: Bringing up level for play took: 0.002427
+[2019.08.17-18.27.17:125][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.27.17:126][458]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.065
+[2019.08.17-18.27.17:126][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.27.27:734][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.27.27:735][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.27.27:770][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.27.27:770][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.17-18.27.27:820][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.27.27:826][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.17-18.27.27:858][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.08.17-18.27.34:050][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.31.23:320][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.08.17-18.31.23:320][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameDesign/BasicSetting" FILE="E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.17-18.31.23:561][848]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/BasicSetting_Auto71852CE14469ED7E2F3F136868E79577F.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/GameDesign/BasicSetting_Auto7.umap'
+[2019.08.17-18.31.23:563][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.308
+[2019.08.17-18.31.23:564][848]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.308
