@@ -1,0 +1,1345 @@
+﻿Log file open, 08/18/19 04:06:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PinballMachine
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.673404
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini]
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini]
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/MagicLeap.ini]
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1709) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.18-02.06.27:252][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.18-02.06.27:252][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.18-02.06.27:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.18-02.06.27:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.18-02.06.27:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.18-02.06.27:253][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.18-02.06.27:254][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.18-02.06.27:254][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:254][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:268][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:268][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.18-02.06.27:268][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.18-02.06.27:268][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:268][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.18-02.06.27:268][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:268][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.18-02.06.27:268][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.18-02.06.27:269][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.18-02.06.27:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.18-02.06.27:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.18-02.06.27:385][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.18-02.06.27:385][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.18-02.06.27:489][  0]LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini]
+[2019.08.18-02.06.27:494][  0]LogHAL: Display: Platform has ~ 8 GB [8485310464 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.18-02.06.27:494][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.18-02.06.27:494][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.18-02.06.27:494][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.18-02.06.27:495][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.18-02.06.27:496][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Scalability.ini]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.18-02.06.27:497][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.18-02.06.27:517][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.18-02.06.27:517][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.18-02.06.27:517][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Repo/Pinball/PinballMachine/Saved/Config/Windows/Engine.ini]
+[2019.08.18-02.06.27:537][  0]LogInit: Computer: DESKTOP-1CQM2D8
+[2019.08.18-02.06.27:537][  0]LogInit: User: Mostafa
+[2019.08.18-02.06.27:537][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.18-02.06.27:537][  0]LogInit: High frequency timer resolution =2.835934 MHz
+[2019.08.18-02.06.27:551][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.08.18-02.06.27:551][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.18-02.06.27:551][  0]LogMemory: Process Physical Memory: 96.11 MB used, 96.11 MB peak
+[2019.08.18-02.06.27:551][  0]LogMemory: Process Virtual Memory: 83.47 MB used, 83.47 MB peak
+[2019.08.18-02.06.27:551][  0]LogMemory: Physical Memory: 4323.45 MB used,  3768.77 MB free, 8092.22 MB total
+[2019.08.18-02.06.27:551][  0]LogMemory: Virtual Memory: 536.65 MB used,  134217192.00 MB free, 134217728.00 MB total
+[2019.08.18-02.06.29:198][  0]LogInit: Using OS detected language (en-US).
+[2019.08.18-02.06.29:198][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.18-02.06.29:303][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.18-02.06.30:331][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.18-02.06.31:016][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.18-02.06.31:016][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.18-02.06.36:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.18-02.06.36:180][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.18-02.06.36:706][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2019.08.18-02.06.36:706][  0]LogD3D11RHI:       2020/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.18-02.06.36:721][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.08.18-02.06.36:721][  0]LogD3D11RHI:       128/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.18-02.06.36:723][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.18-02.06.36:723][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.18-02.06.36:723][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.18-02.06.36:744][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.18-02.06.36:744][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2019.08.18-02.06.36:748][  0]LogWindows: EnumDisplayDevices:
+[2019.08.18-02.06.36:748][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.08.18-02.06.36:749][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.08.18-02.06.36:749][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.08.18-02.06.36:749][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.18-02.06.36:749][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2019.08.18-02.06.36:749][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.18-02.06.36:749][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.18-02.06.36:749][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2019.08.18-02.06.36:798][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.18-02.06.37:028][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.18-02.06.37:057][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.18-02.06.37:057][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.18-02.06.37:220][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.18-02.06.38:427][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.18-02.06.38:483][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.18-02.06.38:541][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.18-02.06.38:586][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.18-02.06.38:655][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.18-02.06.38:688][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.18-02.06.38:705][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.18-02.06.38:802][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.18-02.06.38:809][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.18-02.06.39:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.18-02.06.39:087][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.18-02.06.39:204][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.18-02.06.39:204][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.18-02.06.39:234][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.18-02.06.39:235][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.18-02.06.39:355][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.18-02.06.39:403][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.18-02.06.39:419][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.18-02.06.39:453][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.18-02.06.39:507][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.18-02.06.39:507][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.18-02.06.39:507][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.18-02.06.39:975][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.18-02.06.40:712][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (E:/Repo/Pinball/PinballMachine/Intermediate/Shaders/WorkingDirectory/12144/).
+[2019.08.18-02.06.40:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mostafa/AppData/Local/Temp/UnrealShaderWorkingDir/BF3D56C843BA4F5310E84BB48D9C1B72/'.
+[2019.08.18-02.06.40:798][  0]LogXGEController: Cleaning working directory: C:/Users/Mostafa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.18-02.06.40:799][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.18-02.06.40:800][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.18-02.06.40:800][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.18-02.06.48:669][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.18-02.06.49:700][  0]LogDerivedDataCache: Loaded boot cache 1.02s 71MB C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.18-02.06.49:700][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.18-02.06.49:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Repo/Pinball/PinballMachine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.18-02.06.49:701][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.18-02.06.49:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Repo/Pinball/PinballMachine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.18-02.06.49:701][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.18-02.06.49:930][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.18-02.06.49:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.18-02.06.49:930][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.18-02.06.49:942][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mostafa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.18-02.06.49:942][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.18-02.06.49:942][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.18-02.06.49:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.18-02.06.50:031][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.18-02.06.50:195][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.18-02.06.51:441][  0]LogAssetRegistry: FAssetRegistry took 0.0589 seconds to start up
+[2019.08.18-02.06.58:336][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/CachedAssetRegistry.bin
+[2019.08.18-02.06.58:336][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.18-02.07.00:057][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.18-02.07.00:057][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.18-02.07.00:057][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.18-02.07.00:057][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.18-02.07.00:073][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.18-02.07.00:582][  0]LogNetVersion: PinballMachine 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3356365459)
+[2019.08.18-02.07.06:214][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/2657c409.bin
+[2019.08.18-02.07.06:238][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2019.08.18-02.07.06:250][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/c9e91a3f.bin
+[2019.08.18-02.07.06:262][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/8e9331e2.bin
+[2019.08.18-02.07.06:266][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/52ed2538.bin
+[2019.08.18-02.07.06:270][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/f0d5030c.bin
+[2019.08.18-02.07.06:274][  0]LogAssetRegistry: Error: Failed to open file for write E:/Repo/Pinball/PinballMachine/Intermediate/AssetRegistryCache/1f683343.bin
+[2019.08.18-02.07.06:277][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.111110 seconds
+[2019.08.18-02.07.06:285][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.18-02.07.06:285][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.18-02.07.06:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.18-02.07.21:926][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.18-02.07.21:960][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.18-02.07.22:772][  0]SourceControl: Source control is disabled
+[2019.08.18-02.07.22:772][  0]SourceControl: Source control is disabled
+[2019.08.18-02.07.22:897][  0]SourceControl: Source control is disabled
+[2019.08.18-02.07.22:934][  0]SourceControl: Source control is disabled
+[2019.08.18-02.07.24:258][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.18-02.07.24:725][  0]LogOcInput: OculusInput pre-init called
+[2019.08.18-02.07.27:068][  0]LogEngine: Initializing Engine...
+[2019.08.18-02.07.27:167][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.18-02.07.27:244][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.067 s
+[2019.08.18-02.07.28:366][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.18-02.07.28:707][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.18-02.07.28:797][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.07.28:855][  0]LogInit: FAudioDevice initialized.
+[2019.08.18-02.07.28:855][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.18-02.07.28:863][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Mostafa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.18-02.07.28:864][  0]LogInit: Texture streaming: Enabled
+[2019.08.18-02.07.29:319][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.18-02.07.29:617][  0]LogInit: Transaction tracking system initialized
+[2019.08.18-02.07.30:038][  0]BlueprintLog: New page: Editor Load
+[2019.08.18-02.07.31:077][  0]LogConfig: Warning: Failed to saved backup for config[E:/Repo/Pinball/PinballMachine/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2019.08.18-02.07.31:078][  0]LocalizationService: Localization service is disabled
+[2019.08.18-02.07.35:443][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/' took 0.05s
+[2019.08.18-02.07.35:443][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.18-02.07.35:443][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.18-02.07.39:063][  0]SourceControl: Source control is disabled
+[2019.08.18-02.07.39:086][  0]Cmd: MAP LOAD FILE="E:/Repo/Pinball/PinballMachine/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.18-02.07.39:093][  0]LogEditorServer: Warning: Can't find file 'E:/Repo/Pinball/PinballMachine/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.18-02.07.39:100][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.18-02.07.39:116][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2019.08.18-02.07.39:116][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.043
+[2019.08.18-02.07.40:509][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.07.40:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.07.40:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.07.40:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.07.40:678][  0]LogCollectionManager: Loaded 0 collections in 0.002449 seconds
+[2019.08.18-02.07.40:980][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Saved/Collections/' took 0.01s
+[2019.08.18-02.07.40:980][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/Developers/Mostafa/Collections/' took 0.01s
+[2019.08.18-02.07.40:980][  0]LogFileCache: Scanning file cache for directory 'E:/Repo/Pinball/PinballMachine/Content/Collections/' took 0.01s
+[2019.08.18-02.07.40:980][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.18-02.07.41:023][  0]LogContentBrowser: Native class hierarchy populated in 0.0411 seconds. Added 2732 classes and 659 folders.
+[2019.08.18-02.07.41:244][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.08.18-02.07.41:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.41:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:534][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.42:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.18-02.07.43:996][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.08.18-02.07.44:070][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2019.08.18-02.07.44:285][  0]LogSlate: Took 0.030517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.18-02.07.44:380][  0]LogSlate: Took 0.093939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.18-02.07.44:450][  0]LogSlate: Took 0.016163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.18-02.07.45:013][  0]LogRenderer: Reallocating scene render targets to support 776x344 Format 10 NumSamples 1 (Frame:1).
+[2019.08.18-02.07.45:622][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.18-02.07.45:622][  0]LogLoad: (Engine Initialization) Total time: 108.31 seconds
+[2019.08.18-02.07.45:622][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.18-02.07.45:886][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.18-02.07.46:001][  1]LogAssetRegistry: Asset discovery search completed in 54.5818 seconds
+[2019.08.18-02.07.46:004][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.18-02.07.46:004][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.08.18-02.07.47:071][  4]LogSlate: Took 0.091538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.18-02.07.50:073][ 13]LogSlate: Took 0.000694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.18-02.08.28:347][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.08.45:005][643]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.08.45:182][643]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BP_Slingshot_5.Capsule: Material index 2 is invalid.
+[2019.08.18-02.08.45:188][643]LogAssetEditorManager: Opening Asset editor for World /Game/GameDesign/BasicSetting.BasicSetting
+[2019.08.18-02.08.45:264][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.08.18-02.08.45:265][643]Cmd: MAP LOAD FILE="E:/Repo/Pinball/PinballMachine/Content/GameDesign/BasicSetting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.18-02.08.45:265][643]LightingResults: New page: Lighting Build
+[2019.08.18-02.08.45:283][643]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.08.18-02.08.45:285][643]LoadErrors: New page: Loading map: BasicSetting.umap
+[2019.08.18-02.08.45:298][643]MapCheck: New page: Map Check
+[2019.08.18-02.08.45:298][643]LightingResults: New page: Lighting Build
+[2019.08.18-02.08.45:332][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.08.18-02.08.45:434][643]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BP_Slingshot_5.Capsule: Material index 2 is invalid.
+[2019.08.18-02.08.45:460][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.18-02.08.45:526][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.08.18-02.08.45:550][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.18-02.08.45:550][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.08.18-02.08.45:550][643]LogFileHelpers: Loading map 'BasicSetting' took 0.286
+[2019.08.18-02.08.49:165][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.08.49:249][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.08.49:260][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.08.49:260][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.08.49:303][843]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:08:49 AM)
+[2019.08.18-02.08.49:315][843]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.08.49:345][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029472s)
+[2019.08.18-02.08.49:349][843]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.08.49:350][843]LogPlayLevel: PIE: World Init took: (0.004454s)
+[2019.08.18-02.08.49:350][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.034585s)
+[2019.08.18-02.08.49:382][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.18-02.08.49:383][843]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.08.49:394][843]LogInit: FAudioDevice initialized.
+[2019.08.18-02.08.49:451][843]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.08.49:478][843]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.08.49
+[2019.08.18-02.08.49:478][843]LogWorld: Bringing up level for play took: 0.002202
+[2019.08.18-02.08.49:520][843]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.08.18-02.08.49:522][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.08.49:524][843]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.632
+[2019.08.18-02.08.49:524][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.09.08:946][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.09.08:947][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.09.08:979][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.09.08:979][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.09.09:015][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.09.09:020][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.18-02.09.09:058][995]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.18-02.10.47:575][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.10.49:454][963]PIE: Warning: Constraint in '/Engine/Transient.World_3:PersistentLevel.BP_Spinner_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2019.08.18-02.10.49:499][964]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Engine/Transient.World_4:PersistentLevel.BP_Slingshot_C_0.Capsule: Material index 2 is invalid.
+[2019.08.18-02.10.52:750][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/PinballGameMode.PinballGameMode
+[2019.08.18-02.10.53:731][ 19]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.08.18-02.10.55:423][ 19]LogSlate: Took 0.016462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.18-02.10.56:261][ 20]LogSlate: Took 0.016800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.18-02.10.58:741][102]LogSlate: Window 'PinballGameMode' being destroyed
+[2019.08.18-02.10.58:745][102]LogSlate: Window 'PinballGameMode' being destroyed
+[2019.08.18-02.11.48:565][443]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.18-02.11.51:799][443]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.18-02.13.47:264][721]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/PinballPlayercontroller.PinballPlayercontroller
+[2019.08.18-02.16.01:445][140]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::GreaterEqual_IntInt' [Element not found.]
+[2019.08.18-02.18.10:321][721]BlueprintLog: New page: Collapse to Function
+[2019.08.18-02.18.57:517][391]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.08.18-02.18.57:518][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.161
+[2019.08.18-02.18.57:519][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueBrint/PinballPlayercontroller] ([1] browsable assets)...
+[2019.08.18-02.18.57:519][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/PinballPlayercontroller]
+[2019.08.18-02.18.57:650][391]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller_Auto17DED832C4CB2CBBDBC1C75826CDBDAE2.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/PinballPlayercontroller_Auto1.uasset'
+[2019.08.18-02.18.57:672][391]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.08.18-02.19.26:902][113]LogSlate: Took 0.014707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.18-02.19.39:034][709]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.19.39:338][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.08.18-02.19.40:270][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.19.40:331][742]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontrollerD1757D69473C8763CA56B88CDD06E5C8.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.20.35:891][273]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.20.36:107][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.08.18-02.20.36:645][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.20.36:705][288]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller84F6B8B844AE17884FA7EDB413257AA2.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.21.02:507][794]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.21.02:679][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.08.18-02.21.03:132][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.21.03:178][812]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontrollerB065589549B1D98FE1992F8D188B20E8.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.21.18:421][561]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.21.18:635][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.08.18-02.21.19:224][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.21.19:281][580]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller8E8566D74224701051FDE1998714DB54.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.21.39:201][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.21.39:216][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.21.39:216][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.21.39:217][843]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:21:39 AM)
+[2019.08.18-02.21.39:217][843]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.21.39:234][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017437s)
+[2019.08.18-02.21.39:235][843]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.21.39:235][843]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2019.08.18-02.21.39:235][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.018260s)
+[2019.08.18-02.21.39:266][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.18-02.21.39:267][843]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.21.39:279][843]LogInit: FAudioDevice initialized.
+[2019.08.18-02.21.39:310][843]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.21.39:312][843]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.21.39
+[2019.08.18-02.21.39:313][843]LogWorld: Bringing up level for play took: 0.001809
+[2019.08.18-02.21.39:325][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.21.39:326][843]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.83
+[2019.08.18-02.21.39:326][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.21.59:129][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.21.59:130][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.21.59:162][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.21.59:162][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.21.59:205][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.21.59:211][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.18-02.21.59:236][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.18-02.22.01:274][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.22.22:831][674]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.22.23:043][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.08.18-02.22.26:394][852]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.22.26:412][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.22.26:413][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.22.26:413][852]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:22:26 AM)
+[2019.08.18-02.22.26:413][852]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.22.26:422][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009485s)
+[2019.08.18-02.22.26:423][852]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.22.26:423][852]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2019.08.18-02.22.26:423][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010289s)
+[2019.08.18-02.22.26:460][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.08.18-02.22.26:462][852]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.22.26:474][852]LogInit: FAudioDevice initialized.
+[2019.08.18-02.22.26:504][852]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.22.26:507][852]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.22.26
+[2019.08.18-02.22.26:507][852]LogWorld: Bringing up level for play took: 0.002209
+[2019.08.18-02.22.26:520][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.22.26:521][852]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.365
+[2019.08.18-02.22.26:521][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.22.36:758][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.22.36:758][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.22.36:788][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.22.36:788][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.22.36:826][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.22.36:832][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.08.18-02.22.36:858][465]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.18-02.23.18:415][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-02.23.21:429][696]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/PinballGameMode.PinballGameMode
+[2019.08.18-02.23.45:367][502]BlueprintLog: New page: Compile PinballGameMode
+[2019.08.18-02.23.45:560][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.08.18-02.23.46:153][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballGameMode" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset" SILENT=true
+[2019.08.18-02.23.46:218][515]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballGameModeC5BAEAC4450DBE4C9559FC81B9A7462E.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset'
+[2019.08.18-02.26.06:143][304]BlueprintLog: New page: Compile PinballGameMode
+[2019.08.18-02.26.06:328][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.08.18-02.26.08:201][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballGameMode" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset" SILENT=true
+[2019.08.18-02.26.08:262][392]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballGameModeF8F2720E4E860BB48D5408AD1BB3BEF1.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset'
+[2019.08.18-02.26.24:154][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballGameMode" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset" SILENT=true
+[2019.08.18-02.26.24:215][860]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballGameMode47EB925246C140A9B50501975689689D.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballGameMode.uasset'
+[2019.08.18-02.29.11:138][109]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.29.11:322][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.08.18-02.29.11:772][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.29.11:826][129]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller5BB0F20C455C56D6969B648193C035E2.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.34.51:934][830]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.34.52:109][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.08.18-02.34.53:058][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.34.53:115][875]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller13C84D60496D3C3CE48809B3EDC241A4.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.35.07:060][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.35.07:109][ 13]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontrollerE5FD2AAA4FCB4A51371A0BB255353780.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.35.09:360][135]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.35.09:377][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.09:377][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.35.09:377][135]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:35:09 AM)
+[2019.08.18-02.35.09:377][135]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.35.09:385][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007575s)
+[2019.08.18-02.35.09:385][135]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.35.09:386][135]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.08.18-02.35.09:386][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.008444s)
+[2019.08.18-02.35.09:417][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.08.18-02.35.09:419][135]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.35.09:431][135]LogInit: FAudioDevice initialized.
+[2019.08.18-02.35.09:457][135]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.35.09:459][135]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.35.09
+[2019.08.18-02.35.09:459][135]LogWorld: Bringing up level for play took: 0.001968
+[2019.08.18-02.35.09:472][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.09:473][135]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.683
+[2019.08.18-02.35.09:473][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.22:799][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.22:799][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.22:829][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.35.22:829][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.22:873][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.22:878][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.08.18-02.35.22:901][932]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.18-02.35.24:141][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.35.24:196][  9]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.35.24:214][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.24:214][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.35.24:214][  9]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:35:24 AM)
+[2019.08.18-02.35.24:214][  9]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.35.24:222][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007924s)
+[2019.08.18-02.35.24:222][  9]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.35.24:223][  9]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.08.18-02.35.24:223][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.008528s)
+[2019.08.18-02.35.24:253][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.18-02.35.24:254][  9]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.35.24:264][  9]LogInit: FAudioDevice initialized.
+[2019.08.18-02.35.24:293][  9]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.35.24:295][  9]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.35.24
+[2019.08.18-02.35.24:295][  9]LogWorld: Bringing up level for play took: 0.001764
+[2019.08.18-02.35.24:307][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.24:307][  9]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.152
+[2019.08.18-02.35.24:307][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.44:015][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.44:016][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.44:051][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.35.44:051][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.44:105][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.44:110][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.18-02.35.44:134][190]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.18-02.35.45:461][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.35.45:536][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.35.45:555][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.45:555][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.35.45:555][272]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:35:45 AM)
+[2019.08.18-02.35.45:555][272]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.35.45:563][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007993s)
+[2019.08.18-02.35.45:564][272]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.35.45:564][272]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.08.18-02.35.45:564][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.008674s)
+[2019.08.18-02.35.45:594][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.08.18-02.35.45:595][272]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.35.45:605][272]LogInit: FAudioDevice initialized.
+[2019.08.18-02.35.45:631][272]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.35.45:632][272]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.35.45
+[2019.08.18-02.35.45:633][272]LogWorld: Bringing up level for play took: 0.001772
+[2019.08.18-02.35.45:646][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.45:646][272]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.51
+[2019.08.18-02.35.45:646][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.54:237][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.54:237][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.54:267][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.35.54:267][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.54:317][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.54:322][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.08.18-02.35.54:348][786]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.18-02.35.57:842][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.35.57:916][936]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.35.57:941][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.35.57:941][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.35.57:941][936]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:35:57 AM)
+[2019.08.18-02.35.57:941][936]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.35.57:950][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008965s)
+[2019.08.18-02.35.57:951][936]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.35.57:951][936]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.08.18-02.35.57:951][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.009731s)
+[2019.08.18-02.35.57:989][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.08.18-02.35.57:991][936]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.35.58:003][936]LogInit: FAudioDevice initialized.
+[2019.08.18-02.35.58:032][936]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.35.58:035][936]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.35.58
+[2019.08.18-02.35.58:035][936]LogWorld: Bringing up level for play took: 0.002275
+[2019.08.18-02.35.58:049][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.35.58:049][936]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.107
+[2019.08.18-02.35.58:049][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.36.08:843][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.36.08:843][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.36.08:877][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.36.08:877][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.36.08:916][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.36.08:921][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.18-02.36.08:947][582]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.18-02.36.45:950][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-02.38.32:147][718]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.18-02.38.41:194][ 41]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/TiltShake.TiltShake
+[2019.08.18-02.39.02:193][288]LogSlate: Window 'TiltShake' being destroyed
+[2019.08.18-02.39.02:216][288]LogSlate: Window 'TiltShake' being destroyed
+[2019.08.18-02.39.02:283][288]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.18-02.39.04:153][325]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/TiltShake.TiltShake
+[2019.08.18-02.40.21:034][132]BlueprintLog: New page: Compile TiltShake
+[2019.08.18-02.40.21:076][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.08.18-02.40.21:676][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/TiltShake" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/TiltShake.uasset" SILENT=true
+[2019.08.18-02.40.21:684][161]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/TiltShake1E1D35C24560D16F5DFD8CA6E5259DEC.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/TiltShake.uasset'
+[2019.08.18-02.40.36:175][559]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueBrint/PinballPlayercontroller.PinballPlayercontroller
+[2019.08.18-02.40.46:179][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-02.41.54:259][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.18-02.41.54:259][930]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameDesign/BasicSetting' took 0.033
+[2019.08.18-02.41.54:261][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueBrint/PinballPlayercontroller] ([1] browsable assets)...
+[2019.08.18-02.41.54:261][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueBrint/PinballPlayercontroller]
+[2019.08.18-02.41.54:421][930]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller_Auto2408A568F4AA00C8CD00838A46C4F2155.tmp' to 'E:/Repo/Pinball/PinballMachine/Saved/Autosaves/Game/BlueBrint/PinballPlayercontroller_Auto2.uasset'
+[2019.08.18-02.41.54:422][930]LogFileHelpers: Auto-saving content packages took 0.162
+[2019.08.18-02.44.26:157][279]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.44.26:338][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.18-02.44.27:514][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.44.27:569][333]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontrollerF9291F134E88D4E1DF4AAD9CC94FF4A9.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.44.29:744][455]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.44.29:766][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.29:767][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.44.29:767][455]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:44:29 AM)
+[2019.08.18-02.44.29:767][455]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.44.29:776][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009144s)
+[2019.08.18-02.44.29:777][455]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.44.29:777][455]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2019.08.18-02.44.29:777][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010194s)
+[2019.08.18-02.44.29:816][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.08.18-02.44.29:818][455]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.44.29:831][455]LogInit: FAudioDevice initialized.
+[2019.08.18-02.44.29:858][455]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.44.29:860][455]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.44.29
+[2019.08.18-02.44.29:861][455]LogWorld: Bringing up level for play took: 0.002242
+[2019.08.18-02.44.29:874][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.29:875][455]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.281
+[2019.08.18-02.44.29:875][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.44:582][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.44:583][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.44:611][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.44.44:611][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.44:650][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.44:655][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.18-02.44.44:682][333]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.18-02.44.46:058][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.44.46:149][419]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.44.46:174][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.46:174][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.44.46:174][419]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:44:46 AM)
+[2019.08.18-02.44.46:174][419]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.44.46:185][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010348s)
+[2019.08.18-02.44.46:185][419]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.44.46:185][419]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.08.18-02.44.46:185][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.011074s)
+[2019.08.18-02.44.46:223][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.08.18-02.44.46:225][419]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.44.46:237][419]LogInit: FAudioDevice initialized.
+[2019.08.18-02.44.46:266][419]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.44.46:269][419]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.44.46
+[2019.08.18-02.44.46:270][419]LogWorld: Bringing up level for play took: 0.002877
+[2019.08.18-02.44.46:283][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.46:284][419]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.128
+[2019.08.18-02.44.46:284][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.54:742][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.54:742][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.54:770][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.44.54:770][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.54:847][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.54:853][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.08.18-02.44.54:879][921]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.18-02.44.56:065][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.44.56:120][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.44.56:142][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.44.56:142][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.44.56:142][994]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:44:56 AM)
+[2019.08.18-02.44.56:142][994]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.44.56:152][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009885s)
+[2019.08.18-02.44.56:153][994]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.44.56:153][994]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.08.18-02.44.56:153][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010623s)
+[2019.08.18-02.44.56:193][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.08.18-02.44.56:194][994]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.44.56:207][994]LogInit: FAudioDevice initialized.
+[2019.08.18-02.44.56:235][994]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.44.56:238][994]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.44.56
+[2019.08.18-02.44.56:239][994]LogWorld: Bringing up level for play took: 0.003260
+[2019.08.18-02.44.56:252][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.44.56:252][994]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 0.097
+[2019.08.18-02.44.56:252][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.04:001][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.04:002][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.04:036][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.45.04:036][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.04:077][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.04:082][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.08.18-02.45.04:109][454]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.18-02.45.05:412][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.45.05:486][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.45.05:507][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.05:508][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.45.05:508][532]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:45:05 AM)
+[2019.08.18-02.45.05:508][532]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.45.05:517][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009738s)
+[2019.08.18-02.45.05:518][532]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.45.05:518][532]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.08.18-02.45.05:518][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010476s)
+[2019.08.18-02.45.05:555][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.18-02.45.05:556][532]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.45.05:569][532]LogInit: FAudioDevice initialized.
+[2019.08.18-02.45.05:597][532]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.45.05:599][532]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.45.05
+[2019.08.18-02.45.05:600][532]LogWorld: Bringing up level for play took: 0.002229
+[2019.08.18-02.45.05:613][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.05:613][532]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting -0.542
+[2019.08.18-02.45.05:613][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.14:983][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.14:983][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.15:013][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.45.15:013][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.15:052][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.15:057][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.08.18-02.45.15:084][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.18-02.45.19:693][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-02.45.43:209][373]BlueprintLog: New page: Compile PinballPlayercontroller
+[2019.08.18-02.45.43:427][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.08.18-02.45.44:392][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueBrint/PinballPlayercontroller" FILE="E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset" SILENT=true
+[2019.08.18-02.45.44:462][411]LogSavePackage: Moving 'E:/Repo/Pinball/PinballMachine/Saved/PinballPlayercontroller1CEBFDBD47513973EEB59F8C530BF30D.tmp' to 'E:/Repo/Pinball/PinballMachine/Content/BlueBrint/PinballPlayercontroller.uasset'
+[2019.08.18-02.45.47:091][555]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-02.45.47:112][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.47:112][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-02.45.47:112][555]PIE: New page: PIE session: BasicSetting (Aug 18, 2019, 6:45:47 AM)
+[2019.08.18-02.45.47:112][555]LogPlayLevel: Creating play world package: /Game/GameDesign/UEDPIE_0_BasicSetting
+[2019.08.18-02.45.47:121][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009273s)
+[2019.08.18-02.45.47:122][555]LogAIModule: Creating AISystem for world BasicSetting
+[2019.08.18-02.45.47:122][555]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.08.18-02.45.47:122][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDesign/BasicSetting.BasicSetting to /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting (0.010144s)
+[2019.08.18-02.45.47:163][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.08.18-02.45.47:164][555]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-02.45.47:178][555]LogInit: FAudioDevice initialized.
+[2019.08.18-02.45.47:208][555]LogLoad: Game class is 'PinballGameMode_C'
+[2019.08.18-02.45.47:210][555]LogWorld: Bringing World /Game/GameDesign/UEDPIE_0_BasicSetting.BasicSetting up for play (max tick rate 60) at 2019.08.18-04.45.47
+[2019.08.18-02.45.47:211][555]LogWorld: Bringing up level for play took: 0.002325
+[2019.08.18-02.45.47:224][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.47:225][555]PIE: Play in editor start time for /Game/GameDesign/UEDPIE_0_BasicSetting 1.069
+[2019.08.18-02.45.47:225][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.56:553][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.56:554][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.56:583][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-02.45.56:583][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel' has LevelScriptBlueprint '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting' with GeneratedClass '/Game/GameDesign/BasicSetting.BasicSetting_C' with ClassGeneratedBy '/Game/GameDesign/BasicSetting.BasicSetting:PersistentLevel.BasicSetting'
+[2019.08.18-02.45.56:623][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-02.45.56:628][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.08.18-02.45.56:654][113]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.18-02.46.42:340][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-02.46.47:375][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-02.46.47:457][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.18-02.46.47:578][600]LogSlate: Window 'TiltShake' being destroyed
+[2019.08.18-02.46.47:604][600]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.18-02.46.47:721][600]LogSlate: Window 'PinballMachine - Unreal Editor' being destroyed
+[2019.08.18-02.46.47:722][600]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.18-02.46.47:924][601]Cmd: QUIT_EDITOR
+[2019.08.18-02.46.48:283][601]LogExit: Preparing to exit.
+[2019.08.18-02.46.48:896][601]LogExit: Editor shut down
+[2019.08.18-02.46.48:897][601]LogExit: Transaction tracking system shut down
+[2019.08.18-02.46.49:355][601]LogExit: Object subsystem successfully closed.
+[2019.08.18-02.46.49:378][601]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.18-02.46.49:384][601]LogD3D11RHI: Shutdown
+[2019.08.18-02.46.49:384][601]LogD3D11RHI: CleanupD3DDevice
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.18-02.46.49:385][601]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.18-02.46.49:535][601]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.18-02.46.49:570][601]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (650)
+[2019.08.18-02.46.49:570][601]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.08.18-02.46.49:570][601]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.08.18-02.46.49:570][601]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.08.18-02.46.49:660][601]LogModuleManager: Shutting down and abandoning module StatsViewer (642)
+[2019.08.18-02.46.49:660][601]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2019.08.18-02.46.49:660][601]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2019.08.18-02.46.49:660][601]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.18-02.46.49:663][601]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.18-02.46.49:664][601]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.18-02.46.50:545][601]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.18-02.46.50:546][601]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.18-02.46.50:547][601]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.18-02.46.50:547][601]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.18-02.46.50:547][601]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.18-02.46.50:547][601]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.18-02.46.50:591][601]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.18-02.46.50:599][601]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.18-02.46.50:599][601]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.18-02.46.50:600][601]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.18-02.46.50:601][601]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.18-02.46.50:604][601]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.18-02.46.50:637][601]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.18-02.46.50:638][601]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.18-02.46.50:639][601]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.18-02.46.50:741][601]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.18-02.46.50:841][601]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.18-02.46.50:841][601]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.18-02.46.50:841][601]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.18-02.46.50:841][601]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.18-02.46.50:841][601]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.18-02.46.50:841][601]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.18-02.46.50:842][601]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.18-02.46.50:844][601]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.18-02.46.50:844][601]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.18-02.46.50:845][601]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.18-02.46.50:845][601]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.18-02.46.50:845][601]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.18-02.46.50:847][601]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.18-02.46.50:848][601]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.18-02.46.50:856][601]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.18-02.46.50:856][601]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.18-02.46.50:856][601]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.18-02.46.50:856][601]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.18-02.46.50:856][601]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.18-02.46.50:857][601]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.18-02.46.50:938][601]LogDerivedDataCache: Shutdown
+[2019.08.18-02.46.50:938][601]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.18-02.46.50:938][601]LogXGEController: Cleaning working directory: C:/Users/Mostafa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.18-02.46.50:939][601]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.18-02.46.50:939][601]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.18-02.46.50:940][601]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.18-02.46.50:940][601]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.18-02.46.50:940][601]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.18-02.46.50:940][601]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.18-02.46.50:941][601]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.18-02.46.50:941][601]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.18-02.46.50:941][601]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.18-02.46.50:941][601]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.18-02.46.50:942][601]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.18-02.46.50:968][601]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.18-02.46.50:968][601]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.18-02.46.50:968][601]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.18-02.46.50:968][601]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.18-02.46.50:968][601]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.18-02.46.50:976][601]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.18-02.46.50:976][601]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.18-02.46.50:983][601]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.18-02.46.50:983][601]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.18-02.46.51:019][601]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.18-02.46.51:020][601]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.18-02.46.51:020][601]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.18-02.46.51:021][601]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.18-02.46.51:021][601]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.18-02.46.51:035][601]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.18-02.46.51:035][601]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.18-02.46.51:035][601]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA14ED92A-4E04-DA81-5BBA-5F9C5EDD6C01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=415dad614ac9e06043427b9a9375329c%7Cfc6aa843eaf846cda27c02a7c22c9f59%7Cd0df5372-313e-4f9e-a5c5-99fb942ddae9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.18-02.46.51:068][601]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.18-02.46.51:070][601]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.18-02.46.51:071][601]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.18-02.46.51:077][601]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.18-02.46.51:077][601]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.18-02.46.51:077][601]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.18-02.46.51:077][601]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.18-02.46.51:077][601]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.18-02.46.51:078][601]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.18-02.46.51:078][601]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.18-02.46.51:078][601]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.18-02.46.51:078][601]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.18-02.46.51:079][601]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.18-02.46.51:083][601]LogExit: Exiting.
+[2019.08.18-02.46.51:097][601]Log file closed, 08/18/19 04:46:51
