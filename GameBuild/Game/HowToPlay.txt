@@ -1,0 +1,5 @@
+a - Move Left Flibbers upwards
+d- Move Right Flibbers upwards
+Left Arrow - Shake the Machine Left
+Right Arrow - Shake The Machine Right
+Space Bar - Thorugh the ball in the arena
