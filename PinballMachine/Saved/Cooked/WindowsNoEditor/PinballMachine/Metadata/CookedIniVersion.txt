@@ -1675,7 +1675,7 @@ Mac.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G
 Mac.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Mac.Game:StartupActions:bAddPacks:0=False
 Mac.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack",PackName="StarterContent")
-Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Repo/Pinball/PinballMachine/Game")
+Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Repo/Pinball/PinballMachine/GameBuild")
 Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
